@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\PokemonController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -13,6 +14,12 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+// Route::get('/', function () {
+//     return view('index');
+// });
+
+
+Route::post('create-pokemon', [PokemonController::class, 'store'])->name('create-pokemon');
+Route::get('create-pokemon', [PokemonController::class, 'create'])->name('createview-pokemon');
+Route::get('/', [PokemonController::class, 'index'])->name('index');
+Route::resource('pokemon',PokemonController::class);
