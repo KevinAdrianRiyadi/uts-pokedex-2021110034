@@ -10,6 +10,10 @@
 <div class="container mt-5">
     <h2 class="mb-4">Index View</h2>
 
+    <form action="{{ route('logout') }}" method="POST">
+        @csrf
+        <button type="submit">Logout</button>
+    </form>
     
     <a href="create-pokemon">
         <button class="btn btn-primary mb-3">Add Item</button>
@@ -26,14 +30,18 @@
                 <th>HP</th>
                 <th>Attack</th>
                 <th>Defense</th>
+                <th>Power</th>
                 <th>Is Legendary</th>
                 <th>Photo</th>
+                <th>Action</th>
             </tr>
         </thead>
         <tbody id="itemTable">
             @foreach ($data as $item)
                 <tr>
-                    <td>{{ $item->id }}</td>
+                    <td>#{{ \Illuminate\Support\Str::padLeft($item->id, 4,0) }}</td>
+
+                    <td>{{ $item->name }}</td>
                     <td>{{ $item->species }}</td>
                     <td>{{ $item->primary_type }}</td>
                     <td>{{ $item->weight }}</td>
@@ -41,8 +49,19 @@
                     <td>{{ $item->hp }}</td>
                     <td>{{ $item->attack }}</td>
                     <td>{{ $item->defense }}</td>
+                    <td>{{ $item->power }}</td>
                     <td>{{ $item->is_legendary }}</td>
                     <td>{{ $item->photo }}</td>
+                    <td>
+                        <div class="d-flex justify-content-between">
+                            <a href="{{ 'pokemon/', $item->id }}" class="btn btn-primary me-2">Edit</a>
+                            <form action="{{ 'destroypokemon/', $item->id }}" method="POST" onsubmit="return confirm('Are you sure you want to delete this item?');">
+                                @csrf
+                                @method('DELETE')
+                                <button type="submit" class="btn btn-danger">Delete</button>
+                            </form>
+                        </div>
+                    </td>
                     {{-- <td>
                         <button class="btn btn-warning btn-sm" onclick="editItem({{ $item->id }})">Edit</button>
                         <form action="{{ route('items.destroy', $item) }}" method="POST" style="display:inline;">

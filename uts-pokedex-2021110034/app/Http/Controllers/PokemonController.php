@@ -3,7 +3,12 @@
 namespace App\Http\Controllers;
 
 use App\Models\pokemon;
+use App\Models\User;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Auth;
+use Illuminate\Support\Facades\Hash;
+use Illuminate\Support\Str;
+
 use Ramsey\Uuid\Type\Decimal;
 
 class PokemonController extends Controller
@@ -11,10 +16,17 @@ class PokemonController extends Controller
     /**
      * Display a listing of the resource.
      */
+
     public function index()
     {
         $data = pokemon::paginate(20);
-        return view('index',compact('data'));
+
+        // Calculate the power for each item
+        $data->getCollection()->transform(function ($item) {
+            $item->power = $item->hp + $item->defense; // Calculate power
+            return $item; // Return the modified item
+        });
+        return view('index', compact('data'));
     }
 
     /**
@@ -31,7 +43,7 @@ class PokemonController extends Controller
      */
     public function store(Request $request)
     {
-        
+
         // dd($request);
         $data = $request->validate([
             'name' => 'required|string|max:250',
@@ -57,7 +69,65 @@ class PokemonController extends Controller
     public function show(string $id)
     {
         $data = pokemon::find($id);
-        return view('show   ',compact('data'));
+        return view('show', compact('data'));
+    }
+    public function login()
+    {
+        return view('login');
+    }
+    public function postlogin(Request $request)
+    {
+
+        // Validate input
+        $credentials = $request->validate([
+            'email' => 'required|email',
+            'password' => 'required',
+        ]);
+
+        // Attempt to log the user in
+        if (Auth::attempt($credentials)) {
+            // Authentication passed
+            $request->session()->regenerate();
+            return redirect()->intended('index'); // redirect to intended page or dashboard
+        }
+
+        // Authentication failed
+        return back()->withErrors([
+            'email' => 'The provided credentials do not match our records.',
+        ]);
+    }
+
+    public function register()
+    {
+        return view('register');
+    }
+
+    public function logout(Request $request)
+    {
+        Auth::logout();
+
+        // Invalidate the session
+        $request->session()->invalidate();
+
+        // Regenerate the CSRF token to prevent session fixation attacks
+        $request->session()->regenerateToken();
+
+        // Redirect to the login page or home page after logout
+        return redirect('/login')->with('success', 'You have been logged out successfully.');
+    }
+
+    public function storeregister(Request $request)
+    {
+        $data = $request->validate([
+            'name' => 'required',
+            'password' => 'required',
+            'email' => 'required'
+
+        ]);
+        $data['password'] = Hash::make($request->password);
+
+        User::create($data);
+        return view('login');
     }
 
     /**
@@ -66,7 +136,7 @@ class PokemonController extends Controller
     public function edit(string $id)
     {
         $data = pokemon::find($id);
-        return view('edit',compact('data'));
+        return view('edit', compact('data'));
     }
 
     /**
@@ -74,8 +144,9 @@ class PokemonController extends Controller
      */
     public function update(Request $request, string $id)
     {
-        pokemon::where('status', 'inactive')->update(['status' => 'active']);
+        $data = pokemon::find($id);
 
+        return redirect()->route('index');
     }
 
     /**
@@ -83,9 +154,8 @@ class PokemonController extends Controller
      */
     public function destroy(string $id)
     {
-        // $data = pokemon::find($id);
-
-        pokemon::where('id', $id)->delete();
-
+        $data= pokemon::findorFail('id', $id);
+        $data->delete();
+        return view('index');
     }
 }

@@ -56,23 +56,23 @@
         </div>
         <div class="mb-3">
             <label for="name" class="form-label">Weight</label>
-            <input type="text" class="form-control" id="weight" name="weight" required>
+            <input type="number" class="form-control" id="weight" name="weight" required>
         </div>
         <div class="mb-3">
             <label for="name" class="form-label">Height</label>
-            <input type="text" class="form-control" id="height" name="height" required>
+            <input type="number" class="form-control" id="height" name="height" required>
         </div>
         <div class="mb-3">
             <label for="name" class="form-label">HP</label>
-            <input type="text" class="form-control" id="hp" name="hp" required>
+            <input type="number" class="form-control" id="hp" name="hp" required>
         </div>
         <div class="mb-3">
             <label for="name" class="form-label">Attack</label>
-            <input type="text" class="form-control" id="attack" name="attack" required>
+            <input type="number" class="form-control" id="attack" name="attack" required>
         </div>
         <div class="mb-3">
             <label for="name" class="form-label">Defense</label>
-            <input type="text" class="form-control" id="defense" name="defense" required>
+            <input type="number" class="form-control" id="defense" name="defense" required>
         </div>
         <div class="form-check">
             <input class="form-check-input" type="checkbox" value="True" name="is_legendary" id="is_legendary">
