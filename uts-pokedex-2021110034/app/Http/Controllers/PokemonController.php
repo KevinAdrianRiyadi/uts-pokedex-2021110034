@@ -7,40 +7,31 @@ use App\Models\User;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Hash;
+use Illuminate\Support\Facades\Storage;
 use Illuminate\Support\Str;
 
 use Ramsey\Uuid\Type\Decimal;
 
 class PokemonController extends Controller
 {
-    /**
-     * Display a listing of the resource.
-     */
 
     public function index()
     {
         $data = pokemon::paginate(20);
-
-        // Calculate the power for each item
+        // dd($data);
         $data->getCollection()->transform(function ($item) {
-            $item->power = $item->hp + $item->defense; // Calculate power
-            return $item; // Return the modified item
+            $item->power = $item->hp + $item->defense; 
+            return $item; 
         });
         return view('index', compact('data'));
     }
 
-    /**
-     * Show the form for creating a new resource.
-     */
     public function create()
     {
         // $newUser = pokemon::create(['name' => 'John Doe', 'email' => 'john@example.com']);
         return view('create');
     }
 
-    /**
-     * Store a newly created resource in storage.
-     */
     public function store(Request $request)
     {
 
@@ -63,9 +54,6 @@ class PokemonController extends Controller
         return redirect()->route('index')->with('success', 'Data Inserted');
     }
 
-    /**
-     * Display the specified resource.
-     */
     public function show(string $id)
     {
         $data = pokemon::find($id);
@@ -78,20 +66,17 @@ class PokemonController extends Controller
     public function postlogin(Request $request)
     {
 
-        // Validate input
         $credentials = $request->validate([
             'email' => 'required|email',
             'password' => 'required',
         ]);
 
-        // Attempt to log the user in
+
         if (Auth::attempt($credentials)) {
-            // Authentication passed
             $request->session()->regenerate();
-            return redirect()->intended('index'); // redirect to intended page or dashboard
+            return redirect()->intended('index');
         }
 
-        // Authentication failed
         return back()->withErrors([
             'email' => 'The provided credentials do not match our records.',
         ]);
@@ -105,14 +90,8 @@ class PokemonController extends Controller
     public function logout(Request $request)
     {
         Auth::logout();
-
-        // Invalidate the session
         $request->session()->invalidate();
-
-        // Regenerate the CSRF token to prevent session fixation attacks
         $request->session()->regenerateToken();
-
-        // Redirect to the login page or home page after logout
         return redirect('/login')->with('success', 'You have been logged out successfully.');
     }
 
@@ -130,32 +109,66 @@ class PokemonController extends Controller
         return view('login');
     }
 
-    /**
-     * Show the form for editing the specified resource.
-     */
     public function edit(string $id)
     {
         $data = pokemon::find($id);
         return view('edit', compact('data'));
     }
 
-    /**
-     * Update the specified resource in storage.
-     */
-    public function update(Request $request, string $id)
+
+    public function update(Request $request,string $id)
     {
-        $data = pokemon::find($id);
 
-        return redirect()->route('index');
+        $request->validate([
+            'name' => 'required|max:250',
+            'species' => 'required|string|max:100',
+            'primary_type' => 'nullable|string|max:50',
+            'weight' => 'numeric|min:0|max:99999999.99',
+            'height' => 'numeric|min:0|max:99999999.99',
+            'hp' => 'integer|min:0|max:9999',
+            'attack' => 'integer|min:0|max:9999',
+            'defense' => 'integer|min:0|max:9999',
+            'is_legendary' => 'boolean',
+            'photo' => 'nullable|image|mimes:jpeg,png,jpg,gif,svg|max:2048',
+        ]);
+    
+
+        $pokemon = Pokemon::findOrFail($id);
+    
+        // dd($request);
+        if ($request->hasFile('photo')) {
+
+            if ($pokemon->photo) {
+                Storage::delete($pokemon->photo);
+            }
+    
+
+            $path = $request->file('photo')->store('/','public'); 
+            $pokemon->photo = $path; 
+            // dd($path);
+        }
+
+        $pokemon->name = $request->input('name');
+        $pokemon->species = $request->input('species');
+        $pokemon->primary_type = $request->input('primary_type');
+        $pokemon->weight = $request->input('weight');
+        $pokemon->height = $request->input('height');
+        $pokemon->hp = $request->input('hp');
+        $pokemon->attack = $request->input('attack');
+        $pokemon->defense = $request->input('defense');
+        $pokemon->is_legendary = $request->input('is_legendary');
+        // $pokemon->photo = $request->input('photo');
+        $pokemon->save(); 
+    
+
+        return redirect()->route('index')->with('success', 'Pokémon updated successfully!');
     }
+    
 
-    /**
-     * Remove the specified resource from storage.
-     */
     public function destroy(string $id)
     {
-        $data= pokemon::findorFail('id', $id);
+        $data = pokemon::find($id);
         $data->delete();
-        return view('index');
+        return redirect('index');
     }
 }

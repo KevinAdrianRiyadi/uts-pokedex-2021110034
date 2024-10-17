@@ -9,6 +9,9 @@
 <body>
 <div class="container mt-5">
     <h2 class="mb-4">Show Item</h2>
+    <a href="/">
+        <button type="submit" class="btn-primary">Back</button>
+    </a>
 
     @if ($errors->any())
         <div class="alert alert-danger">
@@ -24,65 +27,48 @@
         @csrf
         <div class="mb-3">
             <label for="name" class="form-label">Item Name</label>
-            <input type="text" class="form-control" id="name" name="name" disabled>
+            <input type="text" class="form-control" id="name" name="name" disabled value="{{$data->name}}">
         </div>
         <div class="mb-3">
             <label for="name" class="form-label">Species</label>
-            <input type="text" class="form-control" id="species" name="species" disabled>
+            <input type="text" class="form-control" id="species" name="species" disabled value="{{$data->species}}">
         </div>
         <div class="mb-3">
             <label for="name" class="form-label">Primary Type</label>
             <select class="primary-type" aria-label="Default select example">
-                <option selected>Open this select menu</option>
-                <option value="Grass">Grass</option>
-                <option value="Fire">Fire</option>
-                <option value="Water">Water</option>
-                <option value="Bug">Bug</option>
-                <option value="Normal">Normal</option>
-                <option value="Poison">Poison</option>
-                <option value="Electric">Electric</option>
-                <option value="Ground">Ground</option>
-                <option value="Fairy">Fairy</option>
-                <option value="Fighting">Fighting</option>
-                <option value="Psychic">Psychic</option>
-                <option value="Rock">Rock</option>
-                <option value="Ghost">Ghost</option>
-                <option value="Ice">Ice</option>
-                <option value="Dragon">Dragon</option>
-                <option value="Dark">Dark</option>
-                <option value="Steel">Steel</option>
-                <option value="Flying">Flying</option>
+                <option selected>{{$data->primary_type}}</option>
               </select>
         </div>
         <div class="mb-3">
             <label for="name" class="form-label">Weight</label>
-            <input type="text" class="form-control" id="weight" name="weight" disabled>
+            <input type="text"  value={{$data->weight}} class="form-control" id="weight" name="weight" disabled>
         </div>
         <div class="mb-3">
             <label for="name" class="form-label">Height</label>
-            <input type="text" class="form-control" id="height" name="height" disabled>
+            <input type="text" value="{{$data->height}}" class="form-control" id="height" name="height" disabled>
         </div>
         <div class="mb-3">
             <label for="name" class="form-label">HP</label>
-            <input type="text" class="form-control" id="hp" name="hp" disabled>
+            <input type="text" value={{$data->hp}} class="form-control" id="hp" name="hp" disabled>
         </div>
         <div class="mb-3">
             <label for="name" class="form-label">Attack</label>
-            <input type="text" class="form-control" id="attack" name="attack" disabled>
+            <input type="text" value={{$data->attack}} class="form-control" id="attack" name="attack" disabled>
         </div>
         <div class="mb-3">
             <label for="name" class="form-label">Defense</label>
-            <input type="text" class="form-control" id="defense" name="defense" disabled>
+            <input type="text" value={{$data->defense}} class="form-control" id="defense" name="defense" disabled>
         </div>
         <div class="mb-3">
             <label for="name" class="form-label">Is Legendary?</label>
-            <input type="text" class="form-control" id="is_legendary" name="is_legendary" disabled>
+            <input type="text" value={{$data->is_legendary}} class="form-control" id="is_legendary" name="is_legendary" disabled>
         </div>
         <div class="mb-3">
-            <label for="name" class="form-label">Input File</label>
-            <input type="text" class="form-control" id="name" name="name" disabled>
+            <label for="name" class="form-label">Current Photo</label>
+            <img src="{{ asset('storage/' . $data->photo) }}" alt="" class="w-25">
+            {{-- <input type="text" value={{$data->hp}} class="form-control" id="name" name="name" disabled> --}}
         </div>
-        <button type="submit" class="btn btn-primary">Create Item</button>
+        {{-- <button type="submit" class="btn btn-primary">Create Item</button> --}}
         {{-- <a href="{{ route('items.index') }}" class="btn btn-secondary">Back</a> --}}
     </form>
 </div>

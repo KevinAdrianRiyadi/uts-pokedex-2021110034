@@ -29,7 +29,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 49,
                 'defense' => 49,
                 'is_legendary' => 0,
-                'photo' => 'public/bulbasaur.png',
+                'photo' => 'bulbasaur.png',
             ),
             1 =>
             array (
@@ -42,7 +42,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 62,
                 'defense' => 63,
                 'is_legendary' => 0,
-                'photo' => 'public/ivysaur.png',
+                'photo' => 'ivysaur.png',
             ),
             2 =>
             array (
@@ -55,7 +55,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 100,
                 'defense' => 123,
                 'is_legendary' => 0,
-                'photo' => 'public/venusaur.png',
+                'photo' => 'venusaur.png',
             ),
             3 =>
             array (
@@ -68,7 +68,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 52,
                 'defense' => 43,
                 'is_legendary' => 0,
-                'photo' => 'public/charmander.png',
+                'photo' => 'charmander.png',
             ),
             4 =>
             array (
@@ -81,7 +81,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 64,
                 'defense' => 58,
                 'is_legendary' => 0,
-                'photo' => 'public/charmeleon.png',
+                'photo' => 'charmeleon.png',
             ),
             5 =>
             array (
@@ -94,7 +94,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 104,
                 'defense' => 78,
                 'is_legendary' => 0,
-                'photo' => 'public/charizard.png',
+                'photo' => 'charizard.png',
             ),
             6 =>
             array (
@@ -107,7 +107,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 48,
                 'defense' => 65,
                 'is_legendary' => 0,
-                'photo' => 'public/squirtle.png',
+                'photo' => 'squirtle.png',
             ),
             7 =>
             array (
@@ -120,7 +120,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 63,
                 'defense' => 80,
                 'is_legendary' => 0,
-                'photo' => 'public/wartortle.png',
+                'photo' => 'wartortle.png',
             ),
             8 =>
             array (
@@ -133,7 +133,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 103,
                 'defense' => 120,
                 'is_legendary' => 0,
-                'photo' => 'public/blastoise.png',
+                'photo' => 'blastoise.png',
             ),
             9 =>
             array (
@@ -146,7 +146,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 30,
                 'defense' => 35,
                 'is_legendary' => 0,
-                'photo' => 'public/caterpie.png',
+                'photo' => 'caterpie.png',
             ),
             10 =>
             array (
@@ -159,7 +159,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 20,
                 'defense' => 55,
                 'is_legendary' => 0,
-                'photo' => 'public/metapod.png',
+                'photo' => 'metapod.png',
             ),
             11 =>
             array (
@@ -172,7 +172,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 45,
                 'defense' => 50,
                 'is_legendary' => 0,
-                'photo' => 'public/butterfree.png',
+                'photo' => 'butterfree.png',
             ),
             12 =>
             array (
@@ -185,7 +185,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 35,
                 'defense' => 30,
                 'is_legendary' => 0,
-                'photo' => 'public/weedle.png',
+                'photo' => 'weedle.png',
             ),
             13 =>
             array (
@@ -198,7 +198,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 25,
                 'defense' => 50,
                 'is_legendary' => 0,
-                'photo' => 'public/kakuna.png',
+                'photo' => 'kakuna.png',
             ),
             14 =>
             array (
@@ -211,7 +211,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 150,
                 'defense' => 40,
                 'is_legendary' => 0,
-                'photo' => 'public/beedrill.png',
+                'photo' => 'beedrill.png',
             ),
             15 =>
             array (
@@ -224,7 +224,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 45,
                 'defense' => 40,
                 'is_legendary' => 0,
-                'photo' => 'public/pidgey.png',
+                'photo' => 'pidgey.png',
             ),
             16 =>
             array (
@@ -237,7 +237,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 60,
                 'defense' => 55,
                 'is_legendary' => 0,
-                'photo' => 'public/pidgeotto.png',
+                'photo' => 'pidgeotto.png',
             ),
             17 =>
             array (
@@ -250,7 +250,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 80,
                 'defense' => 80,
                 'is_legendary' => 0,
-                'photo' => 'public/pidgeot.png',
+                'photo' => 'pidgeot.png',
             ),
             18 =>
             array (
@@ -263,7 +263,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 56,
                 'defense' => 35,
                 'is_legendary' => 0,
-                'photo' => 'public/rattata.png',
+                'photo' => 'rattata.png',
             ),
             19 =>
             array (
@@ -276,7 +276,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 71,
                 'defense' => 70,
                 'is_legendary' => 0,
-                'photo' => 'public/raticate.png',
+                'photo' => 'raticate.png',
             ),
             20 =>
             array (
@@ -289,7 +289,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 60,
                 'defense' => 30,
                 'is_legendary' => 0,
-                'photo' => 'public/spearow.png',
+                'photo' => 'spearow.png',
             ),
             21 =>
             array (
@@ -302,7 +302,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 90,
                 'defense' => 65,
                 'is_legendary' => 0,
-                'photo' => 'public/fearow.png',
+                'photo' => 'fearow.png',
             ),
             22 =>
             array (
@@ -315,7 +315,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 60,
                 'defense' => 44,
                 'is_legendary' => 0,
-                'photo' => 'public/ekans.png',
+                'photo' => 'ekans.png',
             ),
             23 =>
             array (
@@ -328,7 +328,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 95,
                 'defense' => 69,
                 'is_legendary' => 0,
-                'photo' => 'public/arbok.png',
+                'photo' => 'arbok.png',
             ),
             24 =>
             array (
@@ -341,7 +341,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 55,
                 'defense' => 40,
                 'is_legendary' => 0,
-                'photo' => 'public/pikachu.png',
+                'photo' => 'pikachu.png',
             ),
             25 =>
             array (
@@ -354,7 +354,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 47,
                 'defense' => 52,
                 'is_legendary' => 0,
-                'photo' => 'public/nidoran-m.png',
+                'photo' => 'nidoran-m.png',
             ),
             26 =>
             array (
@@ -367,7 +367,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 62,
                 'defense' => 67,
                 'is_legendary' => 0,
-                'photo' => 'public/nidorina.png',
+                'photo' => 'nidorina.png',
             ),
             27 =>
             array (
@@ -380,7 +380,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 92,
                 'defense' => 87,
                 'is_legendary' => 0,
-                'photo' => 'public/nidoqueen.png',
+                'photo' => 'nidoqueen.png',
             ),
             28 =>
             array (
@@ -393,7 +393,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 57,
                 'defense' => 40,
                 'is_legendary' => 0,
-                'photo' => 'public/nidoran-f.png',
+                'photo' => 'nidoran-f.png',
             ),
             29 =>
             array (
@@ -406,7 +406,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 72,
                 'defense' => 57,
                 'is_legendary' => 0,
-                'photo' => 'public/nidorino.png',
+                'photo' => 'nidorino.png',
             ),
             30 =>
             array (
@@ -419,7 +419,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 102,
                 'defense' => 77,
                 'is_legendary' => 0,
-                'photo' => 'public/nidoking.png',
+                'photo' => 'nidoking.png',
             ),
             31 =>
             array (
@@ -432,7 +432,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 45,
                 'defense' => 48,
                 'is_legendary' => 0,
-                'photo' => 'public/clefairy.png',
+                'photo' => 'clefairy.png',
             ),
             32 =>
             array (
@@ -445,7 +445,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 70,
                 'defense' => 73,
                 'is_legendary' => 0,
-                'photo' => 'public/clefable.png',
+                'photo' => 'clefable.png',
             ),
             33 =>
             array (
@@ -458,7 +458,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 45,
                 'defense' => 20,
                 'is_legendary' => 0,
-                'photo' => 'public/jigglypuff.png',
+                'photo' => 'jigglypuff.png',
             ),
             34 =>
             array (
@@ -471,7 +471,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 70,
                 'defense' => 45,
                 'is_legendary' => 0,
-                'photo' => 'public/wigglytuff.png',
+                'photo' => 'wigglytuff.png',
             ),
             35 =>
             array (
@@ -484,7 +484,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 45,
                 'defense' => 35,
                 'is_legendary' => 0,
-                'photo' => 'public/zubat.png',
+                'photo' => 'zubat.png',
             ),
             36 =>
             array (
@@ -497,7 +497,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 80,
                 'defense' => 70,
                 'is_legendary' => 0,
-                'photo' => 'public/golbat.png',
+                'photo' => 'golbat.png',
             ),
             37 =>
             array (
@@ -510,7 +510,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 50,
                 'defense' => 55,
                 'is_legendary' => 0,
-                'photo' => 'public/oddish.png',
+                'photo' => 'oddish.png',
             ),
             38 =>
             array (
@@ -523,7 +523,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 65,
                 'defense' => 70,
                 'is_legendary' => 0,
-                'photo' => 'public/gloom.png',
+                'photo' => 'gloom.png',
             ),
             39 =>
             array (
@@ -536,7 +536,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 80,
                 'defense' => 85,
                 'is_legendary' => 0,
-                'photo' => 'public/vileplume.png',
+                'photo' => 'vileplume.png',
             ),
             40 =>
             array (
@@ -549,7 +549,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 70,
                 'defense' => 55,
                 'is_legendary' => 0,
-                'photo' => 'public/paras.png',
+                'photo' => 'paras.png',
             ),
             41 =>
             array (
@@ -562,7 +562,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 95,
                 'defense' => 80,
                 'is_legendary' => 0,
-                'photo' => 'public/parasect.png',
+                'photo' => 'parasect.png',
             ),
             42 =>
             array (
@@ -575,7 +575,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 55,
                 'defense' => 50,
                 'is_legendary' => 0,
-                'photo' => 'public/venonat.png',
+                'photo' => 'venonat.png',
             ),
             43 =>
             array (
@@ -588,7 +588,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 65,
                 'defense' => 60,
                 'is_legendary' => 0,
-                'photo' => 'public/venomoth.png',
+                'photo' => 'venomoth.png',
             ),
             44 =>
             array (
@@ -601,7 +601,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 52,
                 'defense' => 48,
                 'is_legendary' => 0,
-                'photo' => 'public/psyduck.png',
+                'photo' => 'psyduck.png',
             ),
             45 =>
             array (
@@ -614,7 +614,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 82,
                 'defense' => 78,
                 'is_legendary' => 0,
-                'photo' => 'public/golduck.png',
+                'photo' => 'golduck.png',
             ),
             46 =>
             array (
@@ -627,7 +627,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 80,
                 'defense' => 35,
                 'is_legendary' => 0,
-                'photo' => 'public/mankey.png',
+                'photo' => 'mankey.png',
             ),
             47 =>
             array (
@@ -640,7 +640,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 105,
                 'defense' => 60,
                 'is_legendary' => 0,
-                'photo' => 'public/primeape.png',
+                'photo' => 'primeape.png',
             ),
             48 =>
             array (
@@ -653,7 +653,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 70,
                 'defense' => 45,
                 'is_legendary' => 0,
-                'photo' => 'public/growlithe.png',
+                'photo' => 'growlithe.png',
             ),
             49 =>
             array (
@@ -666,7 +666,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 110,
                 'defense' => 80,
                 'is_legendary' => 0,
-                'photo' => 'public/arcanine.png',
+                'photo' => 'arcanine.png',
             ),
             50 =>
             array (
@@ -679,7 +679,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 50,
                 'defense' => 40,
                 'is_legendary' => 0,
-                'photo' => 'public/poliwag.png',
+                'photo' => 'poliwag.png',
             ),
             51 =>
             array (
@@ -692,7 +692,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 65,
                 'defense' => 65,
                 'is_legendary' => 0,
-                'photo' => 'public/poliwhirl.png',
+                'photo' => 'poliwhirl.png',
             ),
             52 =>
             array (
@@ -705,7 +705,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 95,
                 'defense' => 95,
                 'is_legendary' => 0,
-                'photo' => 'public/poliwrath.png',
+                'photo' => 'poliwrath.png',
             ),
             53 =>
             array (
@@ -718,7 +718,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 20,
                 'defense' => 15,
                 'is_legendary' => 0,
-                'photo' => 'public/abra.png',
+                'photo' => 'abra.png',
             ),
             54 =>
             array (
@@ -731,7 +731,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 35,
                 'defense' => 30,
                 'is_legendary' => 0,
-                'photo' => 'public/kadabra.png',
+                'photo' => 'kadabra.png',
             ),
             55 =>
             array (
@@ -744,7 +744,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 50,
                 'defense' => 65,
                 'is_legendary' => 0,
-                'photo' => 'public/alakazam.png',
+                'photo' => 'alakazam.png',
             ),
             56 =>
             array (
@@ -757,7 +757,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 80,
                 'defense' => 50,
                 'is_legendary' => 0,
-                'photo' => 'public/machop.png',
+                'photo' => 'machop.png',
             ),
             57 =>
             array (
@@ -770,7 +770,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 100,
                 'defense' => 70,
                 'is_legendary' => 0,
-                'photo' => 'public/machoke.png',
+                'photo' => 'machoke.png',
             ),
             58 =>
             array (
@@ -783,7 +783,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 130,
                 'defense' => 80,
                 'is_legendary' => 0,
-                'photo' => 'public/machamp.png',
+                'photo' => 'machamp.png',
             ),
             59 =>
             array (
@@ -796,7 +796,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 75,
                 'defense' => 35,
                 'is_legendary' => 0,
-                'photo' => 'public/bellsprout.png',
+                'photo' => 'bellsprout.png',
             ),
             60 =>
             array (
@@ -809,7 +809,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 90,
                 'defense' => 50,
                 'is_legendary' => 0,
-                'photo' => 'public/weepinbell.png',
+                'photo' => 'weepinbell.png',
             ),
             61 =>
             array (
@@ -822,7 +822,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 105,
                 'defense' => 65,
                 'is_legendary' => 0,
-                'photo' => 'public/victreebel.png',
+                'photo' => 'victreebel.png',
             ),
             62 =>
             array (
@@ -835,7 +835,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 40,
                 'defense' => 35,
                 'is_legendary' => 0,
-                'photo' => 'public/tentacool.png',
+                'photo' => 'tentacool.png',
             ),
             63 =>
             array (
@@ -848,7 +848,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 70,
                 'defense' => 65,
                 'is_legendary' => 0,
-                'photo' => 'public/tentacruel.png',
+                'photo' => 'tentacruel.png',
             ),
             64 =>
             array (
@@ -861,7 +861,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 85,
                 'defense' => 55,
                 'is_legendary' => 0,
-                'photo' => 'public/ponyta.png',
+                'photo' => 'ponyta.png',
             ),
             65 =>
             array (
@@ -874,7 +874,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 100,
                 'defense' => 70,
                 'is_legendary' => 0,
-                'photo' => 'public/rapidash.png',
+                'photo' => 'rapidash.png',
             ),
             66 =>
             array (
@@ -887,7 +887,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 65,
                 'defense' => 65,
                 'is_legendary' => 0,
-                'photo' => 'public/slowpoke.png',
+                'photo' => 'slowpoke.png',
             ),
             67 =>
             array (
@@ -900,7 +900,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 75,
                 'defense' => 180,
                 'is_legendary' => 0,
-                'photo' => 'public/slowbro.png',
+                'photo' => 'slowbro.png',
             ),
             68 =>
             array (
@@ -913,7 +913,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 35,
                 'defense' => 70,
                 'is_legendary' => 0,
-                'photo' => 'public/magnemite.png',
+                'photo' => 'magnemite.png',
             ),
             69 =>
             array (
@@ -926,7 +926,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 60,
                 'defense' => 95,
                 'is_legendary' => 0,
-                'photo' => 'public/magneton.png',
+                'photo' => 'magneton.png',
             ),
             70 =>
             array (
@@ -939,7 +939,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 90,
                 'defense' => 55,
                 'is_legendary' => 0,
-                'photo' => 'public/farfetchd.png',
+                'photo' => 'farfetchd.png',
             ),
             71 =>
             array (
@@ -952,7 +952,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 85,
                 'defense' => 45,
                 'is_legendary' => 0,
-                'photo' => 'public/doduo.png',
+                'photo' => 'doduo.png',
             ),
             72 =>
             array (
@@ -965,7 +965,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 110,
                 'defense' => 70,
                 'is_legendary' => 0,
-                'photo' => 'public/dodrio.png',
+                'photo' => 'dodrio.png',
             ),
             73 =>
             array (
@@ -978,7 +978,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 45,
                 'defense' => 55,
                 'is_legendary' => 0,
-                'photo' => 'public/seel.png',
+                'photo' => 'seel.png',
             ),
             74 =>
             array (
@@ -991,7 +991,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 70,
                 'defense' => 80,
                 'is_legendary' => 0,
-                'photo' => 'public/dewgong.png',
+                'photo' => 'dewgong.png',
             ),
             75 =>
             array (
@@ -1004,7 +1004,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 65,
                 'defense' => 100,
                 'is_legendary' => 0,
-                'photo' => 'public/shellder.png',
+                'photo' => 'shellder.png',
             ),
             76 =>
             array (
@@ -1017,7 +1017,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 95,
                 'defense' => 180,
                 'is_legendary' => 0,
-                'photo' => 'public/cloyster.png',
+                'photo' => 'cloyster.png',
             ),
             77 =>
             array (
@@ -1030,7 +1030,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 35,
                 'defense' => 30,
                 'is_legendary' => 0,
-                'photo' => 'public/gastly.png',
+                'photo' => 'gastly.png',
             ),
             78 =>
             array (
@@ -1043,7 +1043,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 50,
                 'defense' => 45,
                 'is_legendary' => 0,
-                'photo' => 'public/haunter.png',
+                'photo' => 'haunter.png',
             ),
             79 =>
             array (
@@ -1056,7 +1056,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 65,
                 'defense' => 80,
                 'is_legendary' => 0,
-                'photo' => 'public/gengar.png',
+                'photo' => 'gengar.png',
             ),
             80 =>
             array (
@@ -1069,7 +1069,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 45,
                 'defense' => 160,
                 'is_legendary' => 0,
-                'photo' => 'public/onix.png',
+                'photo' => 'onix.png',
             ),
             81 =>
             array (
@@ -1082,7 +1082,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 48,
                 'defense' => 45,
                 'is_legendary' => 0,
-                'photo' => 'public/drowzee.png',
+                'photo' => 'drowzee.png',
             ),
             82 =>
             array (
@@ -1095,7 +1095,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 73,
                 'defense' => 70,
                 'is_legendary' => 0,
-                'photo' => 'public/hypno.png',
+                'photo' => 'hypno.png',
             ),
             83 =>
             array (
@@ -1108,7 +1108,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 105,
                 'defense' => 90,
                 'is_legendary' => 0,
-                'photo' => 'public/krabby.png',
+                'photo' => 'krabby.png',
             ),
             84 =>
             array (
@@ -1121,7 +1121,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 130,
                 'defense' => 115,
                 'is_legendary' => 0,
-                'photo' => 'public/kingler.png',
+                'photo' => 'kingler.png',
             ),
             85 =>
             array (
@@ -1134,7 +1134,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 30,
                 'defense' => 50,
                 'is_legendary' => 0,
-                'photo' => 'public/voltorb.png',
+                'photo' => 'voltorb.png',
             ),
             86 =>
             array (
@@ -1147,7 +1147,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 50,
                 'defense' => 70,
                 'is_legendary' => 0,
-                'photo' => 'public/electrode.png',
+                'photo' => 'electrode.png',
             ),
             87 =>
             array (
@@ -1160,7 +1160,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 40,
                 'defense' => 80,
                 'is_legendary' => 0,
-                'photo' => 'public/exeggcute.png',
+                'photo' => 'exeggcute.png',
             ),
             88 =>
             array (
@@ -1173,7 +1173,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 50,
                 'defense' => 95,
                 'is_legendary' => 0,
-                'photo' => 'public/cubone.png',
+                'photo' => 'cubone.png',
             ),
             89 =>
             array (
@@ -1186,7 +1186,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 120,
                 'defense' => 53,
                 'is_legendary' => 0,
-                'photo' => 'public/hitmonlee.png',
+                'photo' => 'hitmonlee.png',
             ),
             90 =>
             array (
@@ -1199,7 +1199,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 105,
                 'defense' => 79,
                 'is_legendary' => 0,
-                'photo' => 'public/hitmonchan.png',
+                'photo' => 'hitmonchan.png',
             ),
             91 =>
             array (
@@ -1212,7 +1212,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 55,
                 'defense' => 75,
                 'is_legendary' => 0,
-                'photo' => 'public/lickitung.png',
+                'photo' => 'lickitung.png',
             ),
             92 =>
             array (
@@ -1225,7 +1225,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 65,
                 'defense' => 95,
                 'is_legendary' => 0,
-                'photo' => 'public/koffing.png',
+                'photo' => 'koffing.png',
             ),
             93 =>
             array (
@@ -1238,7 +1238,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 90,
                 'defense' => 120,
                 'is_legendary' => 0,
-                'photo' => 'public/weezing.png',
+                'photo' => 'weezing.png',
             ),
             94 =>
             array (
@@ -1251,7 +1251,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 85,
                 'defense' => 95,
                 'is_legendary' => 0,
-                'photo' => 'public/rhyhorn.png',
+                'photo' => 'rhyhorn.png',
             ),
             95 =>
             array (
@@ -1264,7 +1264,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 130,
                 'defense' => 120,
                 'is_legendary' => 0,
-                'photo' => 'public/rhydon.png',
+                'photo' => 'rhydon.png',
             ),
             96 =>
             array (
@@ -1277,7 +1277,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 5,
                 'defense' => 5,
                 'is_legendary' => 0,
-                'photo' => 'public/chansey.png',
+                'photo' => 'chansey.png',
             ),
             97 =>
             array (
@@ -1290,7 +1290,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 55,
                 'defense' => 115,
                 'is_legendary' => 0,
-                'photo' => 'public/tangela.png',
+                'photo' => 'tangela.png',
             ),
             98 =>
             array (
@@ -1303,7 +1303,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 125,
                 'defense' => 100,
                 'is_legendary' => 0,
-                'photo' => 'public/kangaskhan.png',
+                'photo' => 'kangaskhan.png',
             ),
             99 =>
             array (
@@ -1316,7 +1316,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 40,
                 'defense' => 70,
                 'is_legendary' => 0,
-                'photo' => 'public/horsea.png',
+                'photo' => 'horsea.png',
             ),
             100 =>
             array (
@@ -1329,7 +1329,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 65,
                 'defense' => 95,
                 'is_legendary' => 0,
-                'photo' => 'public/seadra.png',
+                'photo' => 'seadra.png',
             ),
             101 =>
             array (
@@ -1342,7 +1342,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 67,
                 'defense' => 60,
                 'is_legendary' => 0,
-                'photo' => 'public/goldeen.png',
+                'photo' => 'goldeen.png',
             ),
             102 =>
             array (
@@ -1355,7 +1355,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 92,
                 'defense' => 65,
                 'is_legendary' => 0,
-                'photo' => 'public/seaking.png',
+                'photo' => 'seaking.png',
             ),
             103 =>
             array (
@@ -1368,7 +1368,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 45,
                 'defense' => 55,
                 'is_legendary' => 0,
-                'photo' => 'public/staryu.png',
+                'photo' => 'staryu.png',
             ),
             104 =>
             array (
@@ -1381,7 +1381,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 75,
                 'defense' => 85,
                 'is_legendary' => 0,
-                'photo' => 'public/starmie.png',
+                'photo' => 'starmie.png',
             ),
             105 =>
             array (
@@ -1394,7 +1394,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 45,
                 'defense' => 65,
                 'is_legendary' => 0,
-                'photo' => 'public/mr-mime.png',
+                'photo' => 'mr-mime.png',
             ),
             106 =>
             array (
@@ -1407,7 +1407,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 110,
                 'defense' => 80,
                 'is_legendary' => 0,
-                'photo' => 'public/scyther.png',
+                'photo' => 'scyther.png',
             ),
             107 =>
             array (
@@ -1420,7 +1420,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 50,
                 'defense' => 35,
                 'is_legendary' => 0,
-                'photo' => 'public/jynx.png',
+                'photo' => 'jynx.png',
             ),
             108 =>
             array (
@@ -1433,7 +1433,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 83,
                 'defense' => 57,
                 'is_legendary' => 0,
-                'photo' => 'public/electabuzz.png',
+                'photo' => 'electabuzz.png',
             ),
             109 =>
             array (
@@ -1446,7 +1446,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 95,
                 'defense' => 57,
                 'is_legendary' => 0,
-                'photo' => 'public/magmar.png',
+                'photo' => 'magmar.png',
             ),
             110 =>
             array (
@@ -1459,7 +1459,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 155,
                 'defense' => 120,
                 'is_legendary' => 0,
-                'photo' => 'public/pinsir.png',
+                'photo' => 'pinsir.png',
             ),
             111 =>
             array (
@@ -1472,7 +1472,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 100,
                 'defense' => 95,
                 'is_legendary' => 0,
-                'photo' => 'public/tauros.png',
+                'photo' => 'tauros.png',
             ),
             112 =>
             array (
@@ -1485,7 +1485,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 10,
                 'defense' => 55,
                 'is_legendary' => 0,
-                'photo' => 'public/magikarp.png',
+                'photo' => 'magikarp.png',
             ),
             113 =>
             array (
@@ -1498,7 +1498,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 155,
                 'defense' => 109,
                 'is_legendary' => 0,
-                'photo' => 'public/gyarados.png',
+                'photo' => 'gyarados.png',
             ),
             114 =>
             array (
@@ -1511,7 +1511,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 85,
                 'defense' => 80,
                 'is_legendary' => 0,
-                'photo' => 'public/lapras.png',
+                'photo' => 'lapras.png',
             ),
             115 =>
             array (
@@ -1524,7 +1524,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 48,
                 'defense' => 48,
                 'is_legendary' => 0,
-                'photo' => 'public/ditto.png',
+                'photo' => 'ditto.png',
             ),
             116 =>
             array (
@@ -1537,7 +1537,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 55,
                 'defense' => 50,
                 'is_legendary' => 0,
-                'photo' => 'public/eevee.png',
+                'photo' => 'eevee.png',
             ),
             117 =>
             array (
@@ -1550,7 +1550,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 65,
                 'defense' => 60,
                 'is_legendary' => 0,
-                'photo' => 'public/vaporeon.png',
+                'photo' => 'vaporeon.png',
             ),
             118 =>
             array (
@@ -1563,7 +1563,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 65,
                 'defense' => 60,
                 'is_legendary' => 0,
-                'photo' => 'public/jolteon.png',
+                'photo' => 'jolteon.png',
             ),
             119 =>
             array (
@@ -1576,7 +1576,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 130,
                 'defense' => 60,
                 'is_legendary' => 0,
-                'photo' => 'public/flareon.png',
+                'photo' => 'flareon.png',
             ),
             120 =>
             array (
@@ -1589,7 +1589,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 60,
                 'defense' => 70,
                 'is_legendary' => 0,
-                'photo' => 'public/porygon.png',
+                'photo' => 'porygon.png',
             ),
             121 =>
             array (
@@ -1602,7 +1602,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 40,
                 'defense' => 100,
                 'is_legendary' => 0,
-                'photo' => 'public/omanyte.png',
+                'photo' => 'omanyte.png',
             ),
             122 =>
             array (
@@ -1615,7 +1615,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 60,
                 'defense' => 125,
                 'is_legendary' => 0,
-                'photo' => 'public/omastar.png',
+                'photo' => 'omastar.png',
             ),
             123 =>
             array (
@@ -1628,7 +1628,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 80,
                 'defense' => 90,
                 'is_legendary' => 0,
-                'photo' => 'public/kabuto.png',
+                'photo' => 'kabuto.png',
             ),
             124 =>
             array (
@@ -1641,7 +1641,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 115,
                 'defense' => 105,
                 'is_legendary' => 0,
-                'photo' => 'public/kabutops.png',
+                'photo' => 'kabutops.png',
             ),
             125 =>
             array (
@@ -1654,7 +1654,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 135,
                 'defense' => 85,
                 'is_legendary' => 0,
-                'photo' => 'public/aerodactyl.png',
+                'photo' => 'aerodactyl.png',
             ),
             126 =>
             array (
@@ -1667,7 +1667,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 110,
                 'defense' => 65,
                 'is_legendary' => 0,
-                'photo' => 'public/snorlax.png',
+                'photo' => 'snorlax.png',
             ),
             127 =>
             array (
@@ -1680,7 +1680,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 85,
                 'defense' => 100,
                 'is_legendary' => 1,
-                'photo' => 'public/articuno.png',
+                'photo' => 'articuno.png',
             ),
             128 =>
             array (
@@ -1693,7 +1693,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 90,
                 'defense' => 85,
                 'is_legendary' => 1,
-                'photo' => 'public/zapdos.png',
+                'photo' => 'zapdos.png',
             ),
             129 =>
             array (
@@ -1706,7 +1706,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 100,
                 'defense' => 90,
                 'is_legendary' => 1,
-                'photo' => 'public/moltres.png',
+                'photo' => 'moltres.png',
             ),
             130 =>
             array (
@@ -1719,7 +1719,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 64,
                 'defense' => 45,
                 'is_legendary' => 0,
-                'photo' => 'public/dratini.png',
+                'photo' => 'dratini.png',
             ),
             131 =>
             array (
@@ -1732,7 +1732,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 84,
                 'defense' => 65,
                 'is_legendary' => 0,
-                'photo' => 'public/dragonair.png',
+                'photo' => 'dragonair.png',
             ),
             132 =>
             array (
@@ -1745,7 +1745,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 134,
                 'defense' => 95,
                 'is_legendary' => 0,
-                'photo' => 'public/dragonite.png',
+                'photo' => 'dragonite.png',
             ),
             133 =>
             array (
@@ -1758,7 +1758,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 150,
                 'defense' => 70,
                 'is_legendary' => 1,
-                'photo' => 'public/mewtwo.png',
+                'photo' => 'mewtwo.png',
             ),
             134 =>
             array (
@@ -1771,7 +1771,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 100,
                 'defense' => 100,
                 'is_legendary' => 1,
-                'photo' => 'public/mew.png',
+                'photo' => 'mew.png',
             ),
             135 =>
             array (
@@ -1784,7 +1784,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 49,
                 'defense' => 65,
                 'is_legendary' => 0,
-                'photo' => 'public/chikorita.png',
+                'photo' => 'chikorita.png',
             ),
             136 =>
             array (
@@ -1797,7 +1797,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 62,
                 'defense' => 80,
                 'is_legendary' => 0,
-                'photo' => 'public/bayleef.png',
+                'photo' => 'bayleef.png',
             ),
             137 =>
             array (
@@ -1810,7 +1810,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 82,
                 'defense' => 100,
                 'is_legendary' => 0,
-                'photo' => 'public/meganium.png',
+                'photo' => 'meganium.png',
             ),
             138 =>
             array (
@@ -1823,7 +1823,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 52,
                 'defense' => 43,
                 'is_legendary' => 0,
-                'photo' => 'public/cyndaquil.png',
+                'photo' => 'cyndaquil.png',
             ),
             139 =>
             array (
@@ -1836,7 +1836,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 64,
                 'defense' => 58,
                 'is_legendary' => 0,
-                'photo' => 'public/quilava.png',
+                'photo' => 'quilava.png',
             ),
             140 =>
             array (
@@ -1849,7 +1849,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 84,
                 'defense' => 78,
                 'is_legendary' => 0,
-                'photo' => 'public/typhlosion.png',
+                'photo' => 'typhlosion.png',
             ),
             141 =>
             array (
@@ -1862,7 +1862,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 65,
                 'defense' => 64,
                 'is_legendary' => 0,
-                'photo' => 'public/totodile.png',
+                'photo' => 'totodile.png',
             ),
             142 =>
             array (
@@ -1875,7 +1875,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 80,
                 'defense' => 80,
                 'is_legendary' => 0,
-                'photo' => 'public/croconaw.png',
+                'photo' => 'croconaw.png',
             ),
             143 =>
             array (
@@ -1888,7 +1888,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 105,
                 'defense' => 100,
                 'is_legendary' => 0,
-                'photo' => 'public/feraligatr.png',
+                'photo' => 'feraligatr.png',
             ),
             144 =>
             array (
@@ -1901,7 +1901,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 46,
                 'defense' => 34,
                 'is_legendary' => 0,
-                'photo' => 'public/sentret.png',
+                'photo' => 'sentret.png',
             ),
             145 =>
             array (
@@ -1914,7 +1914,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 76,
                 'defense' => 64,
                 'is_legendary' => 0,
-                'photo' => 'public/furret.png',
+                'photo' => 'furret.png',
             ),
             146 =>
             array (
@@ -1927,7 +1927,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 30,
                 'defense' => 30,
                 'is_legendary' => 0,
-                'photo' => 'public/hoothoot.png',
+                'photo' => 'hoothoot.png',
             ),
             147 =>
             array (
@@ -1940,7 +1940,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 50,
                 'defense' => 50,
                 'is_legendary' => 0,
-                'photo' => 'public/noctowl.png',
+                'photo' => 'noctowl.png',
             ),
             148 =>
             array (
@@ -1953,7 +1953,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 20,
                 'defense' => 30,
                 'is_legendary' => 0,
-                'photo' => 'public/ledyba.png',
+                'photo' => 'ledyba.png',
             ),
             149 =>
             array (
@@ -1966,7 +1966,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 35,
                 'defense' => 50,
                 'is_legendary' => 0,
-                'photo' => 'public/ledian.png',
+                'photo' => 'ledian.png',
             ),
             150 =>
             array (
@@ -1979,7 +1979,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 60,
                 'defense' => 40,
                 'is_legendary' => 0,
-                'photo' => 'public/spinarak.png',
+                'photo' => 'spinarak.png',
             ),
             151 =>
             array (
@@ -1992,7 +1992,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 90,
                 'defense' => 70,
                 'is_legendary' => 0,
-                'photo' => 'public/ariados.png',
+                'photo' => 'ariados.png',
             ),
             152 =>
             array (
@@ -2005,7 +2005,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 90,
                 'defense' => 80,
                 'is_legendary' => 0,
-                'photo' => 'public/crobat.png',
+                'photo' => 'crobat.png',
             ),
             153 =>
             array (
@@ -2018,7 +2018,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 38,
                 'defense' => 38,
                 'is_legendary' => 0,
-                'photo' => 'public/chinchou.png',
+                'photo' => 'chinchou.png',
             ),
             154 =>
             array (
@@ -2031,7 +2031,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 58,
                 'defense' => 58,
                 'is_legendary' => 0,
-                'photo' => 'public/lanturn.png',
+                'photo' => 'lanturn.png',
             ),
             155 =>
             array (
@@ -2044,7 +2044,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 40,
                 'defense' => 15,
                 'is_legendary' => 0,
-                'photo' => 'public/pichu.png',
+                'photo' => 'pichu.png',
             ),
             156 =>
             array (
@@ -2057,7 +2057,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 25,
                 'defense' => 28,
                 'is_legendary' => 0,
-                'photo' => 'public/cleffa.png',
+                'photo' => 'cleffa.png',
             ),
             157 =>
             array (
@@ -2070,7 +2070,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 30,
                 'defense' => 15,
                 'is_legendary' => 0,
-                'photo' => 'public/igglybuff.png',
+                'photo' => 'igglybuff.png',
             ),
             158 =>
             array (
@@ -2083,7 +2083,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 20,
                 'defense' => 65,
                 'is_legendary' => 0,
-                'photo' => 'public/togepi.png',
+                'photo' => 'togepi.png',
             ),
             159 =>
             array (
@@ -2096,7 +2096,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 40,
                 'defense' => 85,
                 'is_legendary' => 0,
-                'photo' => 'public/togetic.png',
+                'photo' => 'togetic.png',
             ),
             160 =>
             array (
@@ -2109,7 +2109,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 50,
                 'defense' => 45,
                 'is_legendary' => 0,
-                'photo' => 'public/natu.png',
+                'photo' => 'natu.png',
             ),
             161 =>
             array (
@@ -2122,7 +2122,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 75,
                 'defense' => 70,
                 'is_legendary' => 0,
-                'photo' => 'public/xatu.png',
+                'photo' => 'xatu.png',
             ),
             162 =>
             array (
@@ -2135,7 +2135,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 40,
                 'defense' => 40,
                 'is_legendary' => 0,
-                'photo' => 'public/mareep.png',
+                'photo' => 'mareep.png',
             ),
             163 =>
             array (
@@ -2148,7 +2148,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 55,
                 'defense' => 55,
                 'is_legendary' => 0,
-                'photo' => 'public/flaaffy.png',
+                'photo' => 'flaaffy.png',
             ),
             164 =>
             array (
@@ -2161,7 +2161,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 95,
                 'defense' => 105,
                 'is_legendary' => 0,
-                'photo' => 'public/ampharos.png',
+                'photo' => 'ampharos.png',
             ),
             165 =>
             array (
@@ -2174,7 +2174,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 80,
                 'defense' => 95,
                 'is_legendary' => 0,
-                'photo' => 'public/bellossom.png',
+                'photo' => 'bellossom.png',
             ),
             166 =>
             array (
@@ -2187,7 +2187,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 20,
                 'defense' => 50,
                 'is_legendary' => 0,
-                'photo' => 'public/marill.png',
+                'photo' => 'marill.png',
             ),
             167 =>
             array (
@@ -2200,7 +2200,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 50,
                 'defense' => 80,
                 'is_legendary' => 0,
-                'photo' => 'public/azumarill.png',
+                'photo' => 'azumarill.png',
             ),
             168 =>
             array (
@@ -2213,7 +2213,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 100,
                 'defense' => 115,
                 'is_legendary' => 0,
-                'photo' => 'public/sudowoodo.png',
+                'photo' => 'sudowoodo.png',
             ),
             169 =>
             array (
@@ -2226,7 +2226,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 75,
                 'defense' => 75,
                 'is_legendary' => 0,
-                'photo' => 'public/politoed.png',
+                'photo' => 'politoed.png',
             ),
             170 =>
             array (
@@ -2239,7 +2239,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 35,
                 'defense' => 40,
                 'is_legendary' => 0,
-                'photo' => 'public/hoppip.png',
+                'photo' => 'hoppip.png',
             ),
             171 =>
             array (
@@ -2252,7 +2252,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 45,
                 'defense' => 50,
                 'is_legendary' => 0,
-                'photo' => 'public/skiploom.png',
+                'photo' => 'skiploom.png',
             ),
             172 =>
             array (
@@ -2265,7 +2265,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 55,
                 'defense' => 70,
                 'is_legendary' => 0,
-                'photo' => 'public/jumpluff.png',
+                'photo' => 'jumpluff.png',
             ),
             173 =>
             array (
@@ -2278,7 +2278,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 70,
                 'defense' => 55,
                 'is_legendary' => 0,
-                'photo' => 'public/aipom.png',
+                'photo' => 'aipom.png',
             ),
             174 =>
             array (
@@ -2291,7 +2291,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 30,
                 'defense' => 30,
                 'is_legendary' => 0,
-                'photo' => 'public/sunkern.png',
+                'photo' => 'sunkern.png',
             ),
             175 =>
             array (
@@ -2304,7 +2304,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 75,
                 'defense' => 55,
                 'is_legendary' => 0,
-                'photo' => 'public/sunflora.png',
+                'photo' => 'sunflora.png',
             ),
             176 =>
             array (
@@ -2317,7 +2317,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 65,
                 'defense' => 45,
                 'is_legendary' => 0,
-                'photo' => 'public/yanma.png',
+                'photo' => 'yanma.png',
             ),
             177 =>
             array (
@@ -2330,7 +2330,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 45,
                 'defense' => 45,
                 'is_legendary' => 0,
-                'photo' => 'public/wooper.png',
+                'photo' => 'wooper.png',
             ),
             178 =>
             array (
@@ -2343,7 +2343,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 85,
                 'defense' => 85,
                 'is_legendary' => 0,
-                'photo' => 'public/quagsire.png',
+                'photo' => 'quagsire.png',
             ),
             179 =>
             array (
@@ -2356,7 +2356,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 65,
                 'defense' => 60,
                 'is_legendary' => 0,
-                'photo' => 'public/espeon.png',
+                'photo' => 'espeon.png',
             ),
             180 =>
             array (
@@ -2369,7 +2369,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 65,
                 'defense' => 110,
                 'is_legendary' => 0,
-                'photo' => 'public/umbreon.png',
+                'photo' => 'umbreon.png',
             ),
             181 =>
             array (
@@ -2382,7 +2382,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 85,
                 'defense' => 42,
                 'is_legendary' => 0,
-                'photo' => 'public/murkrow.png',
+                'photo' => 'murkrow.png',
             ),
             182 =>
             array (
@@ -2395,7 +2395,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 75,
                 'defense' => 80,
                 'is_legendary' => 0,
-                'photo' => 'public/slowking.png',
+                'photo' => 'slowking.png',
             ),
             183 =>
             array (
@@ -2408,7 +2408,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 60,
                 'defense' => 60,
                 'is_legendary' => 0,
-                'photo' => 'public/misdreavus.png',
+                'photo' => 'misdreavus.png',
             ),
             184 =>
             array (
@@ -2421,7 +2421,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 72,
                 'defense' => 48,
                 'is_legendary' => 0,
-                'photo' => 'public/unown.png',
+                'photo' => 'unown.png',
             ),
             185 =>
             array (
@@ -2434,7 +2434,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 33,
                 'defense' => 58,
                 'is_legendary' => 0,
-                'photo' => 'public/wobbuffet.png',
+                'photo' => 'wobbuffet.png',
             ),
             186 =>
             array (
@@ -2447,7 +2447,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 80,
                 'defense' => 65,
                 'is_legendary' => 0,
-                'photo' => 'public/girafarig.png',
+                'photo' => 'girafarig.png',
             ),
             187 =>
             array (
@@ -2460,7 +2460,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 65,
                 'defense' => 90,
                 'is_legendary' => 0,
-                'photo' => 'public/pineco.png',
+                'photo' => 'pineco.png',
             ),
             188 =>
             array (
@@ -2473,7 +2473,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 90,
                 'defense' => 140,
                 'is_legendary' => 0,
-                'photo' => 'public/forretress.png',
+                'photo' => 'forretress.png',
             ),
             189 =>
             array (
@@ -2486,7 +2486,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 70,
                 'defense' => 70,
                 'is_legendary' => 0,
-                'photo' => 'public/dunsparce.png',
+                'photo' => 'dunsparce.png',
             ),
             190 =>
             array (
@@ -2499,7 +2499,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 75,
                 'defense' => 105,
                 'is_legendary' => 0,
-                'photo' => 'public/gligar.png',
+                'photo' => 'gligar.png',
             ),
             191 =>
             array (
@@ -2512,7 +2512,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 125,
                 'defense' => 230,
                 'is_legendary' => 0,
-                'photo' => 'public/steelix.png',
+                'photo' => 'steelix.png',
             ),
             192 =>
             array (
@@ -2525,7 +2525,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 80,
                 'defense' => 50,
                 'is_legendary' => 0,
-                'photo' => 'public/snubbull.png',
+                'photo' => 'snubbull.png',
             ),
             193 =>
             array (
@@ -2538,7 +2538,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 120,
                 'defense' => 75,
                 'is_legendary' => 0,
-                'photo' => 'public/granbull.png',
+                'photo' => 'granbull.png',
             ),
             194 =>
             array (
@@ -2551,7 +2551,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 95,
                 'defense' => 85,
                 'is_legendary' => 0,
-                'photo' => 'public/qwilfish.png',
+                'photo' => 'qwilfish.png',
             ),
             195 =>
             array (
@@ -2564,7 +2564,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 150,
                 'defense' => 140,
                 'is_legendary' => 0,
-                'photo' => 'public/scizor.png',
+                'photo' => 'scizor.png',
             ),
             196 =>
             array (
@@ -2577,7 +2577,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 10,
                 'defense' => 230,
                 'is_legendary' => 0,
-                'photo' => 'public/shuckle.png',
+                'photo' => 'shuckle.png',
             ),
             197 =>
             array (
@@ -2590,7 +2590,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 185,
                 'defense' => 115,
                 'is_legendary' => 0,
-                'photo' => 'public/heracross.png',
+                'photo' => 'heracross.png',
             ),
             198 =>
             array (
@@ -2603,7 +2603,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 95,
                 'defense' => 55,
                 'is_legendary' => 0,
-                'photo' => 'public/sneasel.png',
+                'photo' => 'sneasel.png',
             ),
             199 =>
             array (
@@ -2616,7 +2616,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 80,
                 'defense' => 50,
                 'is_legendary' => 0,
-                'photo' => 'public/teddiursa.png',
+                'photo' => 'teddiursa.png',
             ),
             200 =>
             array (
@@ -2629,7 +2629,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 130,
                 'defense' => 75,
                 'is_legendary' => 0,
-                'photo' => 'public/ursaring.png',
+                'photo' => 'ursaring.png',
             ),
             201 =>
             array (
@@ -2642,7 +2642,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 40,
                 'defense' => 40,
                 'is_legendary' => 0,
-                'photo' => 'public/slugma.png',
+                'photo' => 'slugma.png',
             ),
             202 =>
             array (
@@ -2655,7 +2655,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 50,
                 'defense' => 120,
                 'is_legendary' => 0,
-                'photo' => 'public/magcargo.png',
+                'photo' => 'magcargo.png',
             ),
             203 =>
             array (
@@ -2668,7 +2668,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 50,
                 'defense' => 40,
                 'is_legendary' => 0,
-                'photo' => 'public/swinub.png',
+                'photo' => 'swinub.png',
             ),
             204 =>
             array (
@@ -2681,7 +2681,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 100,
                 'defense' => 80,
                 'is_legendary' => 0,
-                'photo' => 'public/piloswine.png',
+                'photo' => 'piloswine.png',
             ),
             205 =>
             array (
@@ -2694,7 +2694,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 55,
                 'defense' => 95,
                 'is_legendary' => 0,
-                'photo' => 'public/corsola.png',
+                'photo' => 'corsola.png',
             ),
             206 =>
             array (
@@ -2707,7 +2707,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 65,
                 'defense' => 35,
                 'is_legendary' => 0,
-                'photo' => 'public/remoraid.png',
+                'photo' => 'remoraid.png',
             ),
             207 =>
             array (
@@ -2720,7 +2720,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 105,
                 'defense' => 75,
                 'is_legendary' => 0,
-                'photo' => 'public/octillery.png',
+                'photo' => 'octillery.png',
             ),
             208 =>
             array (
@@ -2733,7 +2733,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 55,
                 'defense' => 45,
                 'is_legendary' => 0,
-                'photo' => 'public/delibird.png',
+                'photo' => 'delibird.png',
             ),
             209 =>
             array (
@@ -2746,7 +2746,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 40,
                 'defense' => 70,
                 'is_legendary' => 0,
-                'photo' => 'public/mantine.png',
+                'photo' => 'mantine.png',
             ),
             210 =>
             array (
@@ -2759,7 +2759,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 80,
                 'defense' => 140,
                 'is_legendary' => 0,
-                'photo' => 'public/skarmory.png',
+                'photo' => 'skarmory.png',
             ),
             211 =>
             array (
@@ -2772,7 +2772,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 60,
                 'defense' => 30,
                 'is_legendary' => 0,
-                'photo' => 'public/houndour.png',
+                'photo' => 'houndour.png',
             ),
             212 =>
             array (
@@ -2785,7 +2785,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 90,
                 'defense' => 90,
                 'is_legendary' => 0,
-                'photo' => 'public/houndoom.png',
+                'photo' => 'houndoom.png',
             ),
             213 =>
             array (
@@ -2798,7 +2798,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 95,
                 'defense' => 95,
                 'is_legendary' => 0,
-                'photo' => 'public/kingdra.png',
+                'photo' => 'kingdra.png',
             ),
             214 =>
             array (
@@ -2811,7 +2811,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 60,
                 'defense' => 60,
                 'is_legendary' => 0,
-                'photo' => 'public/phanpy.png',
+                'photo' => 'phanpy.png',
             ),
             215 =>
             array (
@@ -2824,7 +2824,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 120,
                 'defense' => 120,
                 'is_legendary' => 0,
-                'photo' => 'public/donphan.png',
+                'photo' => 'donphan.png',
             ),
             216 =>
             array (
@@ -2837,7 +2837,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 80,
                 'defense' => 90,
                 'is_legendary' => 0,
-                'photo' => 'public/porygon2.png',
+                'photo' => 'porygon2.png',
             ),
             217 =>
             array (
@@ -2850,7 +2850,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 95,
                 'defense' => 62,
                 'is_legendary' => 0,
-                'photo' => 'public/stantler.png',
+                'photo' => 'stantler.png',
             ),
             218 =>
             array (
@@ -2863,7 +2863,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 20,
                 'defense' => 35,
                 'is_legendary' => 0,
-                'photo' => 'public/smeargle.png',
+                'photo' => 'smeargle.png',
             ),
             219 =>
             array (
@@ -2876,7 +2876,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 35,
                 'defense' => 35,
                 'is_legendary' => 0,
-                'photo' => 'public/tyrogue.png',
+                'photo' => 'tyrogue.png',
             ),
             220 =>
             array (
@@ -2889,7 +2889,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 95,
                 'defense' => 95,
                 'is_legendary' => 0,
-                'photo' => 'public/hitmontop.png',
+                'photo' => 'hitmontop.png',
             ),
             221 =>
             array (
@@ -2902,7 +2902,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 30,
                 'defense' => 15,
                 'is_legendary' => 0,
-                'photo' => 'public/smoochum.png',
+                'photo' => 'smoochum.png',
             ),
             222 =>
             array (
@@ -2915,7 +2915,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 63,
                 'defense' => 37,
                 'is_legendary' => 0,
-                'photo' => 'public/elekid.png',
+                'photo' => 'elekid.png',
             ),
             223 =>
             array (
@@ -2928,7 +2928,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 75,
                 'defense' => 37,
                 'is_legendary' => 0,
-                'photo' => 'public/magby.png',
+                'photo' => 'magby.png',
             ),
             224 =>
             array (
@@ -2941,7 +2941,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 80,
                 'defense' => 105,
                 'is_legendary' => 0,
-                'photo' => 'public/miltank.png',
+                'photo' => 'miltank.png',
             ),
             225 =>
             array (
@@ -2954,7 +2954,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 10,
                 'defense' => 10,
                 'is_legendary' => 0,
-                'photo' => 'public/blissey.png',
+                'photo' => 'blissey.png',
             ),
             226 =>
             array (
@@ -2967,7 +2967,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 85,
                 'defense' => 75,
                 'is_legendary' => 1,
-                'photo' => 'public/raikou.png',
+                'photo' => 'raikou.png',
             ),
             227 =>
             array (
@@ -2980,7 +2980,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 115,
                 'defense' => 85,
                 'is_legendary' => 1,
-                'photo' => 'public/entei.png',
+                'photo' => 'entei.png',
             ),
             228 =>
             array (
@@ -2993,7 +2993,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 75,
                 'defense' => 115,
                 'is_legendary' => 1,
-                'photo' => 'public/suicune.png',
+                'photo' => 'suicune.png',
             ),
             229 =>
             array (
@@ -3006,7 +3006,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 64,
                 'defense' => 50,
                 'is_legendary' => 0,
-                'photo' => 'public/larvitar.png',
+                'photo' => 'larvitar.png',
             ),
             230 =>
             array (
@@ -3019,7 +3019,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 84,
                 'defense' => 70,
                 'is_legendary' => 0,
-                'photo' => 'public/pupitar.png',
+                'photo' => 'pupitar.png',
             ),
             231 =>
             array (
@@ -3032,7 +3032,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 164,
                 'defense' => 150,
                 'is_legendary' => 0,
-                'photo' => 'public/tyranitar.png',
+                'photo' => 'tyranitar.png',
             ),
             232 =>
             array (
@@ -3045,7 +3045,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 90,
                 'defense' => 130,
                 'is_legendary' => 1,
-                'photo' => 'public/lugia.png',
+                'photo' => 'lugia.png',
             ),
             233 =>
             array (
@@ -3058,7 +3058,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 130,
                 'defense' => 90,
                 'is_legendary' => 1,
-                'photo' => 'public/ho-oh.png',
+                'photo' => 'ho-oh.png',
             ),
             234 =>
             array (
@@ -3071,7 +3071,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 100,
                 'defense' => 100,
                 'is_legendary' => 1,
-                'photo' => 'public/celebi.png',
+                'photo' => 'celebi.png',
             ),
             235 =>
             array (
@@ -3084,7 +3084,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 45,
                 'defense' => 35,
                 'is_legendary' => 0,
-                'photo' => 'public/treecko.png',
+                'photo' => 'treecko.png',
             ),
             236 =>
             array (
@@ -3097,7 +3097,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 65,
                 'defense' => 45,
                 'is_legendary' => 0,
-                'photo' => 'public/grovyle.png',
+                'photo' => 'grovyle.png',
             ),
             237 =>
             array (
@@ -3110,7 +3110,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 110,
                 'defense' => 75,
                 'is_legendary' => 0,
-                'photo' => 'public/sceptile.png',
+                'photo' => 'sceptile.png',
             ),
             238 =>
             array (
@@ -3123,7 +3123,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 60,
                 'defense' => 40,
                 'is_legendary' => 0,
-                'photo' => 'public/torchic.png',
+                'photo' => 'torchic.png',
             ),
             239 =>
             array (
@@ -3136,7 +3136,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 85,
                 'defense' => 60,
                 'is_legendary' => 0,
-                'photo' => 'public/combusken.png',
+                'photo' => 'combusken.png',
             ),
             240 =>
             array (
@@ -3149,7 +3149,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 160,
                 'defense' => 80,
                 'is_legendary' => 0,
-                'photo' => 'public/blaziken.png',
+                'photo' => 'blaziken.png',
             ),
             241 =>
             array (
@@ -3162,7 +3162,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 70,
                 'defense' => 50,
                 'is_legendary' => 0,
-                'photo' => 'public/mudkip.png',
+                'photo' => 'mudkip.png',
             ),
             242 =>
             array (
@@ -3175,7 +3175,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 85,
                 'defense' => 70,
                 'is_legendary' => 0,
-                'photo' => 'public/marshtomp.png',
+                'photo' => 'marshtomp.png',
             ),
             243 =>
             array (
@@ -3188,7 +3188,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 150,
                 'defense' => 110,
                 'is_legendary' => 0,
-                'photo' => 'public/swampert.png',
+                'photo' => 'swampert.png',
             ),
             244 =>
             array (
@@ -3201,7 +3201,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 55,
                 'defense' => 35,
                 'is_legendary' => 0,
-                'photo' => 'public/poochyena.png',
+                'photo' => 'poochyena.png',
             ),
             245 =>
             array (
@@ -3214,7 +3214,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 90,
                 'defense' => 70,
                 'is_legendary' => 0,
-                'photo' => 'public/mightyena.png',
+                'photo' => 'mightyena.png',
             ),
             246 =>
             array (
@@ -3227,7 +3227,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 30,
                 'defense' => 41,
                 'is_legendary' => 0,
-                'photo' => 'public/zigzagoon.png',
+                'photo' => 'zigzagoon.png',
             ),
             247 =>
             array (
@@ -3240,7 +3240,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 70,
                 'defense' => 61,
                 'is_legendary' => 0,
-                'photo' => 'public/linoone.png',
+                'photo' => 'linoone.png',
             ),
             248 =>
             array (
@@ -3253,7 +3253,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 45,
                 'defense' => 35,
                 'is_legendary' => 0,
-                'photo' => 'public/wurmple.png',
+                'photo' => 'wurmple.png',
             ),
             249 =>
             array (
@@ -3266,7 +3266,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 35,
                 'defense' => 55,
                 'is_legendary' => 0,
-                'photo' => 'public/silcoon.png',
+                'photo' => 'silcoon.png',
             ),
             250 =>
             array (
@@ -3279,7 +3279,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 70,
                 'defense' => 50,
                 'is_legendary' => 0,
-                'photo' => 'public/beautifly.png',
+                'photo' => 'beautifly.png',
             ),
             251 =>
             array (
@@ -3292,7 +3292,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 35,
                 'defense' => 55,
                 'is_legendary' => 0,
-                'photo' => 'public/cascoon.png',
+                'photo' => 'cascoon.png',
             ),
             252 =>
             array (
@@ -3305,7 +3305,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 50,
                 'defense' => 70,
                 'is_legendary' => 0,
-                'photo' => 'public/dustox.png',
+                'photo' => 'dustox.png',
             ),
             253 =>
             array (
@@ -3318,7 +3318,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 30,
                 'defense' => 30,
                 'is_legendary' => 0,
-                'photo' => 'public/lotad.png',
+                'photo' => 'lotad.png',
             ),
             254 =>
             array (
@@ -3331,7 +3331,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 50,
                 'defense' => 50,
                 'is_legendary' => 0,
-                'photo' => 'public/lombre.png',
+                'photo' => 'lombre.png',
             ),
             255 =>
             array (
@@ -3344,7 +3344,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 70,
                 'defense' => 70,
                 'is_legendary' => 0,
-                'photo' => 'public/ludicolo.png',
+                'photo' => 'ludicolo.png',
             ),
             256 =>
             array (
@@ -3357,7 +3357,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 40,
                 'defense' => 50,
                 'is_legendary' => 0,
-                'photo' => 'public/seedot.png',
+                'photo' => 'seedot.png',
             ),
             257 =>
             array (
@@ -3370,7 +3370,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 70,
                 'defense' => 40,
                 'is_legendary' => 0,
-                'photo' => 'public/nuzleaf.png',
+                'photo' => 'nuzleaf.png',
             ),
             258 =>
             array (
@@ -3383,7 +3383,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 100,
                 'defense' => 60,
                 'is_legendary' => 0,
-                'photo' => 'public/shiftry.png',
+                'photo' => 'shiftry.png',
             ),
             259 =>
             array (
@@ -3396,7 +3396,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 55,
                 'defense' => 30,
                 'is_legendary' => 0,
-                'photo' => 'public/taillow.png',
+                'photo' => 'taillow.png',
             ),
             260 =>
             array (
@@ -3409,7 +3409,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 85,
                 'defense' => 60,
                 'is_legendary' => 0,
-                'photo' => 'public/swellow.png',
+                'photo' => 'swellow.png',
             ),
             261 =>
             array (
@@ -3422,7 +3422,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 30,
                 'defense' => 30,
                 'is_legendary' => 0,
-                'photo' => 'public/wingull.png',
+                'photo' => 'wingull.png',
             ),
             262 =>
             array (
@@ -3435,7 +3435,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 50,
                 'defense' => 100,
                 'is_legendary' => 0,
-                'photo' => 'public/pelipper.png',
+                'photo' => 'pelipper.png',
             ),
             263 =>
             array (
@@ -3448,7 +3448,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 25,
                 'defense' => 25,
                 'is_legendary' => 0,
-                'photo' => 'public/ralts.png',
+                'photo' => 'ralts.png',
             ),
             264 =>
             array (
@@ -3461,7 +3461,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 35,
                 'defense' => 35,
                 'is_legendary' => 0,
-                'photo' => 'public/kirlia.png',
+                'photo' => 'kirlia.png',
             ),
             265 =>
             array (
@@ -3474,7 +3474,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 85,
                 'defense' => 65,
                 'is_legendary' => 0,
-                'photo' => 'public/gardevoir.png',
+                'photo' => 'gardevoir.png',
             ),
             266 =>
             array (
@@ -3487,7 +3487,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 30,
                 'defense' => 32,
                 'is_legendary' => 0,
-                'photo' => 'public/surskit.png',
+                'photo' => 'surskit.png',
             ),
             267 =>
             array (
@@ -3500,7 +3500,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 60,
                 'defense' => 62,
                 'is_legendary' => 0,
-                'photo' => 'public/masquerain.png',
+                'photo' => 'masquerain.png',
             ),
             268 =>
             array (
@@ -3513,7 +3513,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 40,
                 'defense' => 60,
                 'is_legendary' => 0,
-                'photo' => 'public/shroomish.png',
+                'photo' => 'shroomish.png',
             ),
             269 =>
             array (
@@ -3526,7 +3526,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 130,
                 'defense' => 80,
                 'is_legendary' => 0,
-                'photo' => 'public/breloom.png',
+                'photo' => 'breloom.png',
             ),
             270 =>
             array (
@@ -3539,7 +3539,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 60,
                 'defense' => 60,
                 'is_legendary' => 0,
-                'photo' => 'public/slakoth.png',
+                'photo' => 'slakoth.png',
             ),
             271 =>
             array (
@@ -3552,7 +3552,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 80,
                 'defense' => 80,
                 'is_legendary' => 0,
-                'photo' => 'public/vigoroth.png',
+                'photo' => 'vigoroth.png',
             ),
             272 =>
             array (
@@ -3565,7 +3565,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 160,
                 'defense' => 100,
                 'is_legendary' => 0,
-                'photo' => 'public/slaking.png',
+                'photo' => 'slaking.png',
             ),
             273 =>
             array (
@@ -3578,7 +3578,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 45,
                 'defense' => 90,
                 'is_legendary' => 0,
-                'photo' => 'public/nincada.png',
+                'photo' => 'nincada.png',
             ),
             274 =>
             array (
@@ -3591,7 +3591,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 90,
                 'defense' => 45,
                 'is_legendary' => 0,
-                'photo' => 'public/ninjask.png',
+                'photo' => 'ninjask.png',
             ),
             275 =>
             array (
@@ -3604,7 +3604,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 90,
                 'defense' => 45,
                 'is_legendary' => 0,
-                'photo' => 'public/shedinja.png',
+                'photo' => 'shedinja.png',
             ),
             276 =>
             array (
@@ -3617,7 +3617,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 51,
                 'defense' => 23,
                 'is_legendary' => 0,
-                'photo' => 'public/whismur.png',
+                'photo' => 'whismur.png',
             ),
             277 =>
             array (
@@ -3630,7 +3630,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 71,
                 'defense' => 43,
                 'is_legendary' => 0,
-                'photo' => 'public/loudred.png',
+                'photo' => 'loudred.png',
             ),
             278 =>
             array (
@@ -3643,7 +3643,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 91,
                 'defense' => 63,
                 'is_legendary' => 0,
-                'photo' => 'public/exploud.png',
+                'photo' => 'exploud.png',
             ),
             279 =>
             array (
@@ -3656,7 +3656,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 60,
                 'defense' => 30,
                 'is_legendary' => 0,
-                'photo' => 'public/makuhita.png',
+                'photo' => 'makuhita.png',
             ),
             280 =>
             array (
@@ -3669,7 +3669,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 120,
                 'defense' => 60,
                 'is_legendary' => 0,
-                'photo' => 'public/hariyama.png',
+                'photo' => 'hariyama.png',
             ),
             281 =>
             array (
@@ -3682,7 +3682,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 20,
                 'defense' => 40,
                 'is_legendary' => 0,
-                'photo' => 'public/azurill.png',
+                'photo' => 'azurill.png',
             ),
             282 =>
             array (
@@ -3695,7 +3695,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 45,
                 'defense' => 135,
                 'is_legendary' => 0,
-                'photo' => 'public/nosepass.png',
+                'photo' => 'nosepass.png',
             ),
             283 =>
             array (
@@ -3708,7 +3708,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 45,
                 'defense' => 45,
                 'is_legendary' => 0,
-                'photo' => 'public/skitty.png',
+                'photo' => 'skitty.png',
             ),
             284 =>
             array (
@@ -3721,7 +3721,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 65,
                 'defense' => 65,
                 'is_legendary' => 0,
-                'photo' => 'public/delcatty.png',
+                'photo' => 'delcatty.png',
             ),
             285 =>
             array (
@@ -3734,7 +3734,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 85,
                 'defense' => 125,
                 'is_legendary' => 0,
-                'photo' => 'public/sableye.png',
+                'photo' => 'sableye.png',
             ),
             286 =>
             array (
@@ -3747,7 +3747,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 105,
                 'defense' => 125,
                 'is_legendary' => 0,
-                'photo' => 'public/mawile.png',
+                'photo' => 'mawile.png',
             ),
             287 =>
             array (
@@ -3760,7 +3760,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 70,
                 'defense' => 100,
                 'is_legendary' => 0,
-                'photo' => 'public/aron.png',
+                'photo' => 'aron.png',
             ),
             288 =>
             array (
@@ -3773,7 +3773,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 90,
                 'defense' => 140,
                 'is_legendary' => 0,
-                'photo' => 'public/lairon.png',
+                'photo' => 'lairon.png',
             ),
             289 =>
             array (
@@ -3786,7 +3786,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 140,
                 'defense' => 230,
                 'is_legendary' => 0,
-                'photo' => 'public/aggron.png',
+                'photo' => 'aggron.png',
             ),
             290 =>
             array (
@@ -3799,7 +3799,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 40,
                 'defense' => 55,
                 'is_legendary' => 0,
-                'photo' => 'public/meditite.png',
+                'photo' => 'meditite.png',
             ),
             291 =>
             array (
@@ -3812,7 +3812,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 100,
                 'defense' => 85,
                 'is_legendary' => 0,
-                'photo' => 'public/medicham.png',
+                'photo' => 'medicham.png',
             ),
             292 =>
             array (
@@ -3825,7 +3825,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 45,
                 'defense' => 40,
                 'is_legendary' => 0,
-                'photo' => 'public/electrike.png',
+                'photo' => 'electrike.png',
             ),
             293 =>
             array (
@@ -3838,7 +3838,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 75,
                 'defense' => 80,
                 'is_legendary' => 0,
-                'photo' => 'public/manectric.png',
+                'photo' => 'manectric.png',
             ),
             294 =>
             array (
@@ -3851,7 +3851,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 50,
                 'defense' => 40,
                 'is_legendary' => 0,
-                'photo' => 'public/plusle.png',
+                'photo' => 'plusle.png',
             ),
             295 =>
             array (
@@ -3864,7 +3864,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 40,
                 'defense' => 50,
                 'is_legendary' => 0,
-                'photo' => 'public/minun.png',
+                'photo' => 'minun.png',
             ),
             296 =>
             array (
@@ -3877,7 +3877,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 73,
                 'defense' => 75,
                 'is_legendary' => 0,
-                'photo' => 'public/volbeat.png',
+                'photo' => 'volbeat.png',
             ),
             297 =>
             array (
@@ -3890,7 +3890,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 47,
                 'defense' => 75,
                 'is_legendary' => 0,
-                'photo' => 'public/illumise.png',
+                'photo' => 'illumise.png',
             ),
             298 =>
             array (
@@ -3903,7 +3903,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 60,
                 'defense' => 45,
                 'is_legendary' => 0,
-                'photo' => 'public/roselia.png',
+                'photo' => 'roselia.png',
             ),
             299 =>
             array (
@@ -3916,7 +3916,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 43,
                 'defense' => 53,
                 'is_legendary' => 0,
-                'photo' => 'public/gulpin.png',
+                'photo' => 'gulpin.png',
             ),
             300 =>
             array (
@@ -3929,7 +3929,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 73,
                 'defense' => 83,
                 'is_legendary' => 0,
-                'photo' => 'public/swalot.png',
+                'photo' => 'swalot.png',
             ),
             301 =>
             array (
@@ -3942,7 +3942,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 90,
                 'defense' => 20,
                 'is_legendary' => 0,
-                'photo' => 'public/carvanha.png',
+                'photo' => 'carvanha.png',
             ),
             302 =>
             array (
@@ -3955,7 +3955,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 140,
                 'defense' => 70,
                 'is_legendary' => 0,
-                'photo' => 'public/sharpedo.png',
+                'photo' => 'sharpedo.png',
             ),
             303 =>
             array (
@@ -3968,7 +3968,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 70,
                 'defense' => 35,
                 'is_legendary' => 0,
-                'photo' => 'public/wailmer.png',
+                'photo' => 'wailmer.png',
             ),
             304 =>
             array (
@@ -3981,7 +3981,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 90,
                 'defense' => 45,
                 'is_legendary' => 0,
-                'photo' => 'public/wailord.png',
+                'photo' => 'wailord.png',
             ),
             305 =>
             array (
@@ -3994,7 +3994,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 60,
                 'defense' => 40,
                 'is_legendary' => 0,
-                'photo' => 'public/numel.png',
+                'photo' => 'numel.png',
             ),
             306 =>
             array (
@@ -4007,7 +4007,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 120,
                 'defense' => 100,
                 'is_legendary' => 0,
-                'photo' => 'public/camerupt.png',
+                'photo' => 'camerupt.png',
             ),
             307 =>
             array (
@@ -4020,7 +4020,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 85,
                 'defense' => 140,
                 'is_legendary' => 0,
-                'photo' => 'public/torkoal.png',
+                'photo' => 'torkoal.png',
             ),
             308 =>
             array (
@@ -4033,7 +4033,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 25,
                 'defense' => 35,
                 'is_legendary' => 0,
-                'photo' => 'public/spoink.png',
+                'photo' => 'spoink.png',
             ),
             309 =>
             array (
@@ -4046,7 +4046,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 45,
                 'defense' => 65,
                 'is_legendary' => 0,
-                'photo' => 'public/grumpig.png',
+                'photo' => 'grumpig.png',
             ),
             310 =>
             array (
@@ -4059,7 +4059,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 60,
                 'defense' => 60,
                 'is_legendary' => 0,
-                'photo' => 'public/spinda.png',
+                'photo' => 'spinda.png',
             ),
             311 =>
             array (
@@ -4072,7 +4072,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 100,
                 'defense' => 45,
                 'is_legendary' => 0,
-                'photo' => 'public/trapinch.png',
+                'photo' => 'trapinch.png',
             ),
             312 =>
             array (
@@ -4085,7 +4085,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 70,
                 'defense' => 50,
                 'is_legendary' => 0,
-                'photo' => 'public/vibrava.png',
+                'photo' => 'vibrava.png',
             ),
             313 =>
             array (
@@ -4098,7 +4098,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 100,
                 'defense' => 80,
                 'is_legendary' => 0,
-                'photo' => 'public/flygon.png',
+                'photo' => 'flygon.png',
             ),
             314 =>
             array (
@@ -4111,7 +4111,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 85,
                 'defense' => 40,
                 'is_legendary' => 0,
-                'photo' => 'public/cacnea.png',
+                'photo' => 'cacnea.png',
             ),
             315 =>
             array (
@@ -4124,7 +4124,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 115,
                 'defense' => 60,
                 'is_legendary' => 0,
-                'photo' => 'public/cacturne.png',
+                'photo' => 'cacturne.png',
             ),
             316 =>
             array (
@@ -4137,7 +4137,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 40,
                 'defense' => 60,
                 'is_legendary' => 0,
-                'photo' => 'public/swablu.png',
+                'photo' => 'swablu.png',
             ),
             317 =>
             array (
@@ -4150,7 +4150,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 110,
                 'defense' => 110,
                 'is_legendary' => 0,
-                'photo' => 'public/altaria.png',
+                'photo' => 'altaria.png',
             ),
             318 =>
             array (
@@ -4163,7 +4163,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 115,
                 'defense' => 60,
                 'is_legendary' => 0,
-                'photo' => 'public/zangoose.png',
+                'photo' => 'zangoose.png',
             ),
             319 =>
             array (
@@ -4176,7 +4176,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 100,
                 'defense' => 60,
                 'is_legendary' => 0,
-                'photo' => 'public/seviper.png',
+                'photo' => 'seviper.png',
             ),
             320 =>
             array (
@@ -4189,7 +4189,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 55,
                 'defense' => 65,
                 'is_legendary' => 0,
-                'photo' => 'public/lunatone.png',
+                'photo' => 'lunatone.png',
             ),
             321 =>
             array (
@@ -4202,7 +4202,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 95,
                 'defense' => 85,
                 'is_legendary' => 0,
-                'photo' => 'public/solrock.png',
+                'photo' => 'solrock.png',
             ),
             322 =>
             array (
@@ -4215,7 +4215,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 48,
                 'defense' => 43,
                 'is_legendary' => 0,
-                'photo' => 'public/barboach.png',
+                'photo' => 'barboach.png',
             ),
             323 =>
             array (
@@ -4228,7 +4228,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 78,
                 'defense' => 73,
                 'is_legendary' => 0,
-                'photo' => 'public/whiscash.png',
+                'photo' => 'whiscash.png',
             ),
             324 =>
             array (
@@ -4241,7 +4241,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 80,
                 'defense' => 65,
                 'is_legendary' => 0,
-                'photo' => 'public/corphish.png',
+                'photo' => 'corphish.png',
             ),
             325 =>
             array (
@@ -4254,7 +4254,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 120,
                 'defense' => 85,
                 'is_legendary' => 0,
-                'photo' => 'public/crawdaunt.png',
+                'photo' => 'crawdaunt.png',
             ),
             326 =>
             array (
@@ -4267,7 +4267,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 40,
                 'defense' => 55,
                 'is_legendary' => 0,
-                'photo' => 'public/baltoy.png',
+                'photo' => 'baltoy.png',
             ),
             327 =>
             array (
@@ -4280,7 +4280,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 70,
                 'defense' => 105,
                 'is_legendary' => 0,
-                'photo' => 'public/claydol.png',
+                'photo' => 'claydol.png',
             ),
             328 =>
             array (
@@ -4293,7 +4293,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 41,
                 'defense' => 77,
                 'is_legendary' => 0,
-                'photo' => 'public/lileep.png',
+                'photo' => 'lileep.png',
             ),
             329 =>
             array (
@@ -4306,7 +4306,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 81,
                 'defense' => 97,
                 'is_legendary' => 0,
-                'photo' => 'public/cradily.png',
+                'photo' => 'cradily.png',
             ),
             330 =>
             array (
@@ -4319,7 +4319,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 95,
                 'defense' => 50,
                 'is_legendary' => 0,
-                'photo' => 'public/anorith.png',
+                'photo' => 'anorith.png',
             ),
             331 =>
             array (
@@ -4332,7 +4332,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 125,
                 'defense' => 100,
                 'is_legendary' => 0,
-                'photo' => 'public/armaldo.png',
+                'photo' => 'armaldo.png',
             ),
             332 =>
             array (
@@ -4345,7 +4345,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 15,
                 'defense' => 20,
                 'is_legendary' => 0,
-                'photo' => 'public/feebas.png',
+                'photo' => 'feebas.png',
             ),
             333 =>
             array (
@@ -4358,7 +4358,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 60,
                 'defense' => 79,
                 'is_legendary' => 0,
-                'photo' => 'public/milotic.png',
+                'photo' => 'milotic.png',
             ),
             334 =>
             array (
@@ -4371,7 +4371,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 70,
                 'defense' => 70,
                 'is_legendary' => 0,
-                'photo' => 'public/castform.png',
+                'photo' => 'castform.png',
             ),
             335 =>
             array (
@@ -4384,7 +4384,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 90,
                 'defense' => 70,
                 'is_legendary' => 0,
-                'photo' => 'public/kecleon.png',
+                'photo' => 'kecleon.png',
             ),
             336 =>
             array (
@@ -4397,7 +4397,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 75,
                 'defense' => 35,
                 'is_legendary' => 0,
-                'photo' => 'public/shuppet.png',
+                'photo' => 'shuppet.png',
             ),
             337 =>
             array (
@@ -4410,7 +4410,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 165,
                 'defense' => 75,
                 'is_legendary' => 0,
-                'photo' => 'public/banette.png',
+                'photo' => 'banette.png',
             ),
             338 =>
             array (
@@ -4423,7 +4423,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 40,
                 'defense' => 90,
                 'is_legendary' => 0,
-                'photo' => 'public/duskull.png',
+                'photo' => 'duskull.png',
             ),
             339 =>
             array (
@@ -4436,7 +4436,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 70,
                 'defense' => 130,
                 'is_legendary' => 0,
-                'photo' => 'public/dusclops.png',
+                'photo' => 'dusclops.png',
             ),
             340 =>
             array (
@@ -4449,7 +4449,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 68,
                 'defense' => 83,
                 'is_legendary' => 0,
-                'photo' => 'public/tropius.png',
+                'photo' => 'tropius.png',
             ),
             341 =>
             array (
@@ -4462,7 +4462,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 50,
                 'defense' => 80,
                 'is_legendary' => 0,
-                'photo' => 'public/chimecho.png',
+                'photo' => 'chimecho.png',
             ),
             342 =>
             array (
@@ -4475,7 +4475,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 150,
                 'defense' => 60,
                 'is_legendary' => 0,
-                'photo' => 'public/absol.png',
+                'photo' => 'absol.png',
             ),
             343 =>
             array (
@@ -4488,7 +4488,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 23,
                 'defense' => 48,
                 'is_legendary' => 0,
-                'photo' => 'public/wynaut.png',
+                'photo' => 'wynaut.png',
             ),
             344 =>
             array (
@@ -4501,7 +4501,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 50,
                 'defense' => 50,
                 'is_legendary' => 0,
-                'photo' => 'public/snorunt.png',
+                'photo' => 'snorunt.png',
             ),
             345 =>
             array (
@@ -4514,7 +4514,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 120,
                 'defense' => 80,
                 'is_legendary' => 0,
-                'photo' => 'public/glalie.png',
+                'photo' => 'glalie.png',
             ),
             346 =>
             array (
@@ -4527,7 +4527,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 40,
                 'defense' => 50,
                 'is_legendary' => 0,
-                'photo' => 'public/spheal.png',
+                'photo' => 'spheal.png',
             ),
             347 =>
             array (
@@ -4540,7 +4540,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 60,
                 'defense' => 70,
                 'is_legendary' => 0,
-                'photo' => 'public/sealeo.png',
+                'photo' => 'sealeo.png',
             ),
             348 =>
             array (
@@ -4553,7 +4553,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 80,
                 'defense' => 90,
                 'is_legendary' => 0,
-                'photo' => 'public/walrein.png',
+                'photo' => 'walrein.png',
             ),
             349 =>
             array (
@@ -4566,7 +4566,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 64,
                 'defense' => 85,
                 'is_legendary' => 0,
-                'photo' => 'public/clamperl.png',
+                'photo' => 'clamperl.png',
             ),
             350 =>
             array (
@@ -4579,7 +4579,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 104,
                 'defense' => 105,
                 'is_legendary' => 0,
-                'photo' => 'public/huntail.png',
+                'photo' => 'huntail.png',
             ),
             351 =>
             array (
@@ -4592,7 +4592,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 84,
                 'defense' => 105,
                 'is_legendary' => 0,
-                'photo' => 'public/gorebyss.png',
+                'photo' => 'gorebyss.png',
             ),
             352 =>
             array (
@@ -4605,7 +4605,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 90,
                 'defense' => 130,
                 'is_legendary' => 0,
-                'photo' => 'public/relicanth.png',
+                'photo' => 'relicanth.png',
             ),
             353 =>
             array (
@@ -4618,7 +4618,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 30,
                 'defense' => 55,
                 'is_legendary' => 0,
-                'photo' => 'public/luvdisc.png',
+                'photo' => 'luvdisc.png',
             ),
             354 =>
             array (
@@ -4631,7 +4631,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 75,
                 'defense' => 60,
                 'is_legendary' => 0,
-                'photo' => 'public/bagon.png',
+                'photo' => 'bagon.png',
             ),
             355 =>
             array (
@@ -4644,7 +4644,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 95,
                 'defense' => 100,
                 'is_legendary' => 0,
-                'photo' => 'public/shelgon.png',
+                'photo' => 'shelgon.png',
             ),
             356 =>
             array (
@@ -4657,7 +4657,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 145,
                 'defense' => 130,
                 'is_legendary' => 0,
-                'photo' => 'public/salamence.png',
+                'photo' => 'salamence.png',
             ),
             357 =>
             array (
@@ -4670,7 +4670,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 55,
                 'defense' => 80,
                 'is_legendary' => 0,
-                'photo' => 'public/beldum.png',
+                'photo' => 'beldum.png',
             ),
             358 =>
             array (
@@ -4683,7 +4683,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 75,
                 'defense' => 100,
                 'is_legendary' => 0,
-                'photo' => 'public/metang.png',
+                'photo' => 'metang.png',
             ),
             359 =>
             array (
@@ -4696,7 +4696,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 145,
                 'defense' => 150,
                 'is_legendary' => 0,
-                'photo' => 'public/metagross.png',
+                'photo' => 'metagross.png',
             ),
             360 =>
             array (
@@ -4709,7 +4709,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 100,
                 'defense' => 200,
                 'is_legendary' => 1,
-                'photo' => 'public/regirock.png',
+                'photo' => 'regirock.png',
             ),
             361 =>
             array (
@@ -4722,7 +4722,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 50,
                 'defense' => 100,
                 'is_legendary' => 1,
-                'photo' => 'public/regice.png',
+                'photo' => 'regice.png',
             ),
             362 =>
             array (
@@ -4735,7 +4735,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 75,
                 'defense' => 150,
                 'is_legendary' => 1,
-                'photo' => 'public/registeel.png',
+                'photo' => 'registeel.png',
             ),
             363 =>
             array (
@@ -4748,7 +4748,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 100,
                 'defense' => 120,
                 'is_legendary' => 1,
-                'photo' => 'public/latias.png',
+                'photo' => 'latias.png',
             ),
             364 =>
             array (
@@ -4761,7 +4761,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 130,
                 'defense' => 100,
                 'is_legendary' => 1,
-                'photo' => 'public/latios.png',
+                'photo' => 'latios.png',
             ),
             365 =>
             array (
@@ -4774,7 +4774,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 150,
                 'defense' => 90,
                 'is_legendary' => 1,
-                'photo' => 'public/kyogre.png',
+                'photo' => 'kyogre.png',
             ),
             366 =>
             array (
@@ -4787,7 +4787,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 180,
                 'defense' => 160,
                 'is_legendary' => 1,
-                'photo' => 'public/groudon.png',
+                'photo' => 'groudon.png',
             ),
             367 =>
             array (
@@ -4800,7 +4800,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 180,
                 'defense' => 100,
                 'is_legendary' => 1,
-                'photo' => 'public/rayquaza.png',
+                'photo' => 'rayquaza.png',
             ),
             368 =>
             array (
@@ -4813,7 +4813,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 100,
                 'defense' => 100,
                 'is_legendary' => 1,
-                'photo' => 'public/jirachi.png',
+                'photo' => 'jirachi.png',
             ),
             369 =>
             array (
@@ -4826,7 +4826,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 95,
                 'defense' => 90,
                 'is_legendary' => 1,
-                'photo' => 'public/deoxys.png',
+                'photo' => 'deoxys.png',
             ),
             370 =>
             array (
@@ -4839,7 +4839,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 68,
                 'defense' => 64,
                 'is_legendary' => 0,
-                'photo' => 'public/turtwig.png',
+                'photo' => 'turtwig.png',
             ),
             371 =>
             array (
@@ -4852,7 +4852,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 89,
                 'defense' => 85,
                 'is_legendary' => 0,
-                'photo' => 'public/grotle.png',
+                'photo' => 'grotle.png',
             ),
             372 =>
             array (
@@ -4865,7 +4865,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 109,
                 'defense' => 105,
                 'is_legendary' => 0,
-                'photo' => 'public/torterra.png',
+                'photo' => 'torterra.png',
             ),
             373 =>
             array (
@@ -4878,7 +4878,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 58,
                 'defense' => 44,
                 'is_legendary' => 0,
-                'photo' => 'public/chimchar.png',
+                'photo' => 'chimchar.png',
             ),
             374 =>
             array (
@@ -4891,7 +4891,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 78,
                 'defense' => 52,
                 'is_legendary' => 0,
-                'photo' => 'public/monferno.png',
+                'photo' => 'monferno.png',
             ),
             375 =>
             array (
@@ -4904,7 +4904,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 104,
                 'defense' => 71,
                 'is_legendary' => 0,
-                'photo' => 'public/infernape.png',
+                'photo' => 'infernape.png',
             ),
             376 =>
             array (
@@ -4917,7 +4917,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 51,
                 'defense' => 53,
                 'is_legendary' => 0,
-                'photo' => 'public/piplup.png',
+                'photo' => 'piplup.png',
             ),
             377 =>
             array (
@@ -4930,7 +4930,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 66,
                 'defense' => 68,
                 'is_legendary' => 0,
-                'photo' => 'public/prinplup.png',
+                'photo' => 'prinplup.png',
             ),
             378 =>
             array (
@@ -4943,7 +4943,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 86,
                 'defense' => 88,
                 'is_legendary' => 0,
-                'photo' => 'public/empoleon.png',
+                'photo' => 'empoleon.png',
             ),
             379 =>
             array (
@@ -4956,7 +4956,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 55,
                 'defense' => 30,
                 'is_legendary' => 0,
-                'photo' => 'public/starly.png',
+                'photo' => 'starly.png',
             ),
             380 =>
             array (
@@ -4969,7 +4969,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 75,
                 'defense' => 50,
                 'is_legendary' => 0,
-                'photo' => 'public/staravia.png',
+                'photo' => 'staravia.png',
             ),
             381 =>
             array (
@@ -4982,7 +4982,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 120,
                 'defense' => 70,
                 'is_legendary' => 0,
-                'photo' => 'public/staraptor.png',
+                'photo' => 'staraptor.png',
             ),
             382 =>
             array (
@@ -4995,7 +4995,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 45,
                 'defense' => 40,
                 'is_legendary' => 0,
-                'photo' => 'public/bidoof.png',
+                'photo' => 'bidoof.png',
             ),
             383 =>
             array (
@@ -5008,7 +5008,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 85,
                 'defense' => 60,
                 'is_legendary' => 0,
-                'photo' => 'public/bibarel.png',
+                'photo' => 'bibarel.png',
             ),
             384 =>
             array (
@@ -5021,7 +5021,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 25,
                 'defense' => 41,
                 'is_legendary' => 0,
-                'photo' => 'public/kricketot.png',
+                'photo' => 'kricketot.png',
             ),
             385 =>
             array (
@@ -5034,7 +5034,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 85,
                 'defense' => 51,
                 'is_legendary' => 0,
-                'photo' => 'public/kricketune.png',
+                'photo' => 'kricketune.png',
             ),
             386 =>
             array (
@@ -5047,7 +5047,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 65,
                 'defense' => 34,
                 'is_legendary' => 0,
-                'photo' => 'public/shinx.png',
+                'photo' => 'shinx.png',
             ),
             387 =>
             array (
@@ -5060,7 +5060,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 85,
                 'defense' => 49,
                 'is_legendary' => 0,
-                'photo' => 'public/luxio.png',
+                'photo' => 'luxio.png',
             ),
             388 =>
             array (
@@ -5073,7 +5073,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 120,
                 'defense' => 79,
                 'is_legendary' => 0,
-                'photo' => 'public/luxray.png',
+                'photo' => 'luxray.png',
             ),
             389 =>
             array (
@@ -5086,7 +5086,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 30,
                 'defense' => 35,
                 'is_legendary' => 0,
-                'photo' => 'public/budew.png',
+                'photo' => 'budew.png',
             ),
             390 =>
             array (
@@ -5099,7 +5099,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 70,
                 'defense' => 65,
                 'is_legendary' => 0,
-                'photo' => 'public/roserade.png',
+                'photo' => 'roserade.png',
             ),
             391 =>
             array (
@@ -5112,7 +5112,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 125,
                 'defense' => 40,
                 'is_legendary' => 0,
-                'photo' => 'public/cranidos.png',
+                'photo' => 'cranidos.png',
             ),
             392 =>
             array (
@@ -5125,7 +5125,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 165,
                 'defense' => 60,
                 'is_legendary' => 0,
-                'photo' => 'public/rampardos.png',
+                'photo' => 'rampardos.png',
             ),
             393 =>
             array (
@@ -5138,7 +5138,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 42,
                 'defense' => 118,
                 'is_legendary' => 0,
-                'photo' => 'public/shieldon.png',
+                'photo' => 'shieldon.png',
             ),
             394 =>
             array (
@@ -5151,7 +5151,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 52,
                 'defense' => 168,
                 'is_legendary' => 0,
-                'photo' => 'public/bastiodon.png',
+                'photo' => 'bastiodon.png',
             ),
             395 =>
             array (
@@ -5164,7 +5164,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 29,
                 'defense' => 45,
                 'is_legendary' => 0,
-                'photo' => 'public/burmy.png',
+                'photo' => 'burmy.png',
             ),
             396 =>
             array (
@@ -5177,7 +5177,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 69,
                 'defense' => 95,
                 'is_legendary' => 0,
-                'photo' => 'public/wormadam.png',
+                'photo' => 'wormadam.png',
             ),
             397 =>
             array (
@@ -5190,7 +5190,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 94,
                 'defense' => 50,
                 'is_legendary' => 0,
-                'photo' => 'public/mothim.png',
+                'photo' => 'mothim.png',
             ),
             398 =>
             array (
@@ -5203,7 +5203,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 30,
                 'defense' => 42,
                 'is_legendary' => 0,
-                'photo' => 'public/combee.png',
+                'photo' => 'combee.png',
             ),
             399 =>
             array (
@@ -5216,7 +5216,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 80,
                 'defense' => 102,
                 'is_legendary' => 0,
-                'photo' => 'public/vespiquen.png',
+                'photo' => 'vespiquen.png',
             ),
             400 =>
             array (
@@ -5229,7 +5229,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 45,
                 'defense' => 70,
                 'is_legendary' => 0,
-                'photo' => 'public/pachirisu.png',
+                'photo' => 'pachirisu.png',
             ),
             401 =>
             array (
@@ -5242,7 +5242,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 65,
                 'defense' => 35,
                 'is_legendary' => 0,
-                'photo' => 'public/buizel.png',
+                'photo' => 'buizel.png',
             ),
             402 =>
             array (
@@ -5255,7 +5255,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 105,
                 'defense' => 55,
                 'is_legendary' => 0,
-                'photo' => 'public/floatzel.png',
+                'photo' => 'floatzel.png',
             ),
             403 =>
             array (
@@ -5268,7 +5268,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 35,
                 'defense' => 45,
                 'is_legendary' => 0,
-                'photo' => 'public/cherubi.png',
+                'photo' => 'cherubi.png',
             ),
             404 =>
             array (
@@ -5281,7 +5281,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 60,
                 'defense' => 70,
                 'is_legendary' => 0,
-                'photo' => 'public/cherrim.png',
+                'photo' => 'cherrim.png',
             ),
             405 =>
             array (
@@ -5294,7 +5294,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 48,
                 'defense' => 48,
                 'is_legendary' => 0,
-                'photo' => 'public/shellos.png',
+                'photo' => 'shellos.png',
             ),
             406 =>
             array (
@@ -5307,7 +5307,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 83,
                 'defense' => 68,
                 'is_legendary' => 0,
-                'photo' => 'public/gastrodon.png',
+                'photo' => 'gastrodon.png',
             ),
             407 =>
             array (
@@ -5320,7 +5320,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 100,
                 'defense' => 66,
                 'is_legendary' => 0,
-                'photo' => 'public/ambipom.png',
+                'photo' => 'ambipom.png',
             ),
             408 =>
             array (
@@ -5333,7 +5333,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 50,
                 'defense' => 34,
                 'is_legendary' => 0,
-                'photo' => 'public/drifloon.png',
+                'photo' => 'drifloon.png',
             ),
             409 =>
             array (
@@ -5346,7 +5346,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 80,
                 'defense' => 44,
                 'is_legendary' => 0,
-                'photo' => 'public/drifblim.png',
+                'photo' => 'drifblim.png',
             ),
             410 =>
             array (
@@ -5359,7 +5359,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 66,
                 'defense' => 44,
                 'is_legendary' => 0,
-                'photo' => 'public/buneary.png',
+                'photo' => 'buneary.png',
             ),
             411 =>
             array (
@@ -5372,7 +5372,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 136,
                 'defense' => 94,
                 'is_legendary' => 0,
-                'photo' => 'public/lopunny.png',
+                'photo' => 'lopunny.png',
             ),
             412 =>
             array (
@@ -5385,7 +5385,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 60,
                 'defense' => 60,
                 'is_legendary' => 0,
-                'photo' => 'public/mismagius.png',
+                'photo' => 'mismagius.png',
             ),
             413 =>
             array (
@@ -5398,7 +5398,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 125,
                 'defense' => 52,
                 'is_legendary' => 0,
-                'photo' => 'public/honchkrow.png',
+                'photo' => 'honchkrow.png',
             ),
             414 =>
             array (
@@ -5411,7 +5411,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 55,
                 'defense' => 42,
                 'is_legendary' => 0,
-                'photo' => 'public/glameow.png',
+                'photo' => 'glameow.png',
             ),
             415 =>
             array (
@@ -5424,7 +5424,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 82,
                 'defense' => 64,
                 'is_legendary' => 0,
-                'photo' => 'public/purugly.png',
+                'photo' => 'purugly.png',
             ),
             416 =>
             array (
@@ -5437,7 +5437,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 30,
                 'defense' => 50,
                 'is_legendary' => 0,
-                'photo' => 'public/chingling.png',
+                'photo' => 'chingling.png',
             ),
             417 =>
             array (
@@ -5450,7 +5450,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 63,
                 'defense' => 47,
                 'is_legendary' => 0,
-                'photo' => 'public/stunky.png',
+                'photo' => 'stunky.png',
             ),
             418 =>
             array (
@@ -5463,7 +5463,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 93,
                 'defense' => 67,
                 'is_legendary' => 0,
-                'photo' => 'public/skuntank.png',
+                'photo' => 'skuntank.png',
             ),
             419 =>
             array (
@@ -5476,7 +5476,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 24,
                 'defense' => 86,
                 'is_legendary' => 0,
-                'photo' => 'public/bronzor.png',
+                'photo' => 'bronzor.png',
             ),
             420 =>
             array (
@@ -5489,7 +5489,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 89,
                 'defense' => 116,
                 'is_legendary' => 0,
-                'photo' => 'public/bronzong.png',
+                'photo' => 'bronzong.png',
             ),
             421 =>
             array (
@@ -5502,7 +5502,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 80,
                 'defense' => 95,
                 'is_legendary' => 0,
-                'photo' => 'public/bonsly.png',
+                'photo' => 'bonsly.png',
             ),
             422 =>
             array (
@@ -5515,7 +5515,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 25,
                 'defense' => 45,
                 'is_legendary' => 0,
-                'photo' => 'public/mime jr..png',
+                'photo' => 'mime jr..png',
             ),
             423 =>
             array (
@@ -5528,7 +5528,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 5,
                 'defense' => 5,
                 'is_legendary' => 0,
-                'photo' => 'public/happiny.png',
+                'photo' => 'happiny.png',
             ),
             424 =>
             array (
@@ -5541,7 +5541,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 65,
                 'defense' => 45,
                 'is_legendary' => 0,
-                'photo' => 'public/chatot.png',
+                'photo' => 'chatot.png',
             ),
             425 =>
             array (
@@ -5554,7 +5554,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 92,
                 'defense' => 108,
                 'is_legendary' => 0,
-                'photo' => 'public/spiritomb.png',
+                'photo' => 'spiritomb.png',
             ),
             426 =>
             array (
@@ -5567,7 +5567,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 70,
                 'defense' => 45,
                 'is_legendary' => 0,
-                'photo' => 'public/gible.png',
+                'photo' => 'gible.png',
             ),
             427 =>
             array (
@@ -5580,7 +5580,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 90,
                 'defense' => 65,
                 'is_legendary' => 0,
-                'photo' => 'public/gabite.png',
+                'photo' => 'gabite.png',
             ),
             428 =>
             array (
@@ -5593,7 +5593,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 170,
                 'defense' => 115,
                 'is_legendary' => 0,
-                'photo' => 'public/garchomp.png',
+                'photo' => 'garchomp.png',
             ),
             429 =>
             array (
@@ -5606,7 +5606,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 85,
                 'defense' => 40,
                 'is_legendary' => 0,
-                'photo' => 'public/munchlax.png',
+                'photo' => 'munchlax.png',
             ),
             430 =>
             array (
@@ -5619,7 +5619,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 70,
                 'defense' => 40,
                 'is_legendary' => 0,
-                'photo' => 'public/riolu.png',
+                'photo' => 'riolu.png',
             ),
             431 =>
             array (
@@ -5632,7 +5632,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 145,
                 'defense' => 88,
                 'is_legendary' => 0,
-                'photo' => 'public/lucario.png',
+                'photo' => 'lucario.png',
             ),
             432 =>
             array (
@@ -5645,7 +5645,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 72,
                 'defense' => 78,
                 'is_legendary' => 0,
-                'photo' => 'public/hippopotas.png',
+                'photo' => 'hippopotas.png',
             ),
             433 =>
             array (
@@ -5658,7 +5658,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 112,
                 'defense' => 118,
                 'is_legendary' => 0,
-                'photo' => 'public/hippowdon.png',
+                'photo' => 'hippowdon.png',
             ),
             434 =>
             array (
@@ -5671,7 +5671,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 50,
                 'defense' => 90,
                 'is_legendary' => 0,
-                'photo' => 'public/skorupi.png',
+                'photo' => 'skorupi.png',
             ),
             435 =>
             array (
@@ -5684,7 +5684,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 90,
                 'defense' => 110,
                 'is_legendary' => 0,
-                'photo' => 'public/drapion.png',
+                'photo' => 'drapion.png',
             ),
             436 =>
             array (
@@ -5697,7 +5697,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 61,
                 'defense' => 40,
                 'is_legendary' => 0,
-                'photo' => 'public/croagunk.png',
+                'photo' => 'croagunk.png',
             ),
             437 =>
             array (
@@ -5710,7 +5710,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 106,
                 'defense' => 65,
                 'is_legendary' => 0,
-                'photo' => 'public/toxicroak.png',
+                'photo' => 'toxicroak.png',
             ),
             438 =>
             array (
@@ -5723,7 +5723,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 100,
                 'defense' => 72,
                 'is_legendary' => 0,
-                'photo' => 'public/carnivine.png',
+                'photo' => 'carnivine.png',
             ),
             439 =>
             array (
@@ -5736,7 +5736,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 49,
                 'defense' => 56,
                 'is_legendary' => 0,
-                'photo' => 'public/finneon.png',
+                'photo' => 'finneon.png',
             ),
             440 =>
             array (
@@ -5749,7 +5749,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 69,
                 'defense' => 76,
                 'is_legendary' => 0,
-                'photo' => 'public/lumineon.png',
+                'photo' => 'lumineon.png',
             ),
             441 =>
             array (
@@ -5762,7 +5762,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 20,
                 'defense' => 50,
                 'is_legendary' => 0,
-                'photo' => 'public/mantyke.png',
+                'photo' => 'mantyke.png',
             ),
             442 =>
             array (
@@ -5775,7 +5775,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 62,
                 'defense' => 50,
                 'is_legendary' => 0,
-                'photo' => 'public/snover.png',
+                'photo' => 'snover.png',
             ),
             443 =>
             array (
@@ -5788,7 +5788,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 132,
                 'defense' => 105,
                 'is_legendary' => 0,
-                'photo' => 'public/abomasnow.png',
+                'photo' => 'abomasnow.png',
             ),
             444 =>
             array (
@@ -5801,7 +5801,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 120,
                 'defense' => 65,
                 'is_legendary' => 0,
-                'photo' => 'public/weavile.png',
+                'photo' => 'weavile.png',
             ),
             445 =>
             array (
@@ -5814,7 +5814,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 70,
                 'defense' => 115,
                 'is_legendary' => 0,
-                'photo' => 'public/magnezone.png',
+                'photo' => 'magnezone.png',
             ),
             446 =>
             array (
@@ -5827,7 +5827,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 85,
                 'defense' => 95,
                 'is_legendary' => 0,
-                'photo' => 'public/lickilicky.png',
+                'photo' => 'lickilicky.png',
             ),
             447 =>
             array (
@@ -5840,7 +5840,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 140,
                 'defense' => 130,
                 'is_legendary' => 0,
-                'photo' => 'public/rhyperior.png',
+                'photo' => 'rhyperior.png',
             ),
             448 =>
             array (
@@ -5853,7 +5853,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 100,
                 'defense' => 125,
                 'is_legendary' => 0,
-                'photo' => 'public/tangrowth.png',
+                'photo' => 'tangrowth.png',
             ),
             449 =>
             array (
@@ -5866,7 +5866,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 123,
                 'defense' => 67,
                 'is_legendary' => 0,
-                'photo' => 'public/electivire.png',
+                'photo' => 'electivire.png',
             ),
             450 =>
             array (
@@ -5879,7 +5879,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 95,
                 'defense' => 67,
                 'is_legendary' => 0,
-                'photo' => 'public/magmortar.png',
+                'photo' => 'magmortar.png',
             ),
             451 =>
             array (
@@ -5892,7 +5892,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 50,
                 'defense' => 95,
                 'is_legendary' => 0,
-                'photo' => 'public/togekiss.png',
+                'photo' => 'togekiss.png',
             ),
             452 =>
             array (
@@ -5905,7 +5905,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 76,
                 'defense' => 86,
                 'is_legendary' => 0,
-                'photo' => 'public/yanmega.png',
+                'photo' => 'yanmega.png',
             ),
             453 =>
             array (
@@ -5918,7 +5918,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 110,
                 'defense' => 130,
                 'is_legendary' => 0,
-                'photo' => 'public/leafeon.png',
+                'photo' => 'leafeon.png',
             ),
             454 =>
             array (
@@ -5931,7 +5931,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 60,
                 'defense' => 110,
                 'is_legendary' => 0,
-                'photo' => 'public/glaceon.png',
+                'photo' => 'glaceon.png',
             ),
             455 =>
             array (
@@ -5944,7 +5944,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 95,
                 'defense' => 125,
                 'is_legendary' => 0,
-                'photo' => 'public/gliscor.png',
+                'photo' => 'gliscor.png',
             ),
             456 =>
             array (
@@ -5957,7 +5957,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 130,
                 'defense' => 80,
                 'is_legendary' => 0,
-                'photo' => 'public/mamoswine.png',
+                'photo' => 'mamoswine.png',
             ),
             457 =>
             array (
@@ -5970,7 +5970,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 80,
                 'defense' => 70,
                 'is_legendary' => 0,
-                'photo' => 'public/porygon-z.png',
+                'photo' => 'porygon-z.png',
             ),
             458 =>
             array (
@@ -5983,7 +5983,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 165,
                 'defense' => 95,
                 'is_legendary' => 0,
-                'photo' => 'public/gallade.png',
+                'photo' => 'gallade.png',
             ),
             459 =>
             array (
@@ -5996,7 +5996,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 55,
                 'defense' => 145,
                 'is_legendary' => 0,
-                'photo' => 'public/probopass.png',
+                'photo' => 'probopass.png',
             ),
             460 =>
             array (
@@ -6009,7 +6009,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 100,
                 'defense' => 135,
                 'is_legendary' => 0,
-                'photo' => 'public/dusknoir.png',
+                'photo' => 'dusknoir.png',
             ),
             461 =>
             array (
@@ -6022,7 +6022,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 80,
                 'defense' => 70,
                 'is_legendary' => 0,
-                'photo' => 'public/froslass.png',
+                'photo' => 'froslass.png',
             ),
             462 =>
             array (
@@ -6035,7 +6035,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 65,
                 'defense' => 107,
                 'is_legendary' => 0,
-                'photo' => 'public/rotom.png',
+                'photo' => 'rotom.png',
             ),
             463 =>
             array (
@@ -6048,7 +6048,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 75,
                 'defense' => 130,
                 'is_legendary' => 1,
-                'photo' => 'public/uxie.png',
+                'photo' => 'uxie.png',
             ),
             464 =>
             array (
@@ -6061,7 +6061,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 105,
                 'defense' => 105,
                 'is_legendary' => 1,
-                'photo' => 'public/mesprit.png',
+                'photo' => 'mesprit.png',
             ),
             465 =>
             array (
@@ -6074,7 +6074,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 125,
                 'defense' => 70,
                 'is_legendary' => 1,
-                'photo' => 'public/azelf.png',
+                'photo' => 'azelf.png',
             ),
             466 =>
             array (
@@ -6087,7 +6087,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 120,
                 'defense' => 120,
                 'is_legendary' => 1,
-                'photo' => 'public/dialga.png',
+                'photo' => 'dialga.png',
             ),
             467 =>
             array (
@@ -6100,7 +6100,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 120,
                 'defense' => 100,
                 'is_legendary' => 1,
-                'photo' => 'public/palkia.png',
+                'photo' => 'palkia.png',
             ),
             468 =>
             array (
@@ -6113,7 +6113,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 90,
                 'defense' => 106,
                 'is_legendary' => 1,
-                'photo' => 'public/heatran.png',
+                'photo' => 'heatran.png',
             ),
             469 =>
             array (
@@ -6126,7 +6126,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 160,
                 'defense' => 110,
                 'is_legendary' => 1,
-                'photo' => 'public/regigigas.png',
+                'photo' => 'regigigas.png',
             ),
             470 =>
             array (
@@ -6139,7 +6139,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 120,
                 'defense' => 100,
                 'is_legendary' => 1,
-                'photo' => 'public/giratina.png',
+                'photo' => 'giratina.png',
             ),
             471 =>
             array (
@@ -6152,7 +6152,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 70,
                 'defense' => 120,
                 'is_legendary' => 1,
-                'photo' => 'public/cresselia.png',
+                'photo' => 'cresselia.png',
             ),
             472 =>
             array (
@@ -6165,7 +6165,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 80,
                 'defense' => 80,
                 'is_legendary' => 0,
-                'photo' => 'public/phione.png',
+                'photo' => 'phione.png',
             ),
             473 =>
             array (
@@ -6178,7 +6178,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 100,
                 'defense' => 100,
                 'is_legendary' => 1,
-                'photo' => 'public/manaphy.png',
+                'photo' => 'manaphy.png',
             ),
             474 =>
             array (
@@ -6191,7 +6191,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 90,
                 'defense' => 90,
                 'is_legendary' => 1,
-                'photo' => 'public/darkrai.png',
+                'photo' => 'darkrai.png',
             ),
             475 =>
             array (
@@ -6204,7 +6204,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 103,
                 'defense' => 75,
                 'is_legendary' => 1,
-                'photo' => 'public/shaymin.png',
+                'photo' => 'shaymin.png',
             ),
             476 =>
             array (
@@ -6217,7 +6217,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 120,
                 'defense' => 120,
                 'is_legendary' => 1,
-                'photo' => 'public/arceus.png',
+                'photo' => 'arceus.png',
             ),
             477 =>
             array (
@@ -6230,7 +6230,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 100,
                 'defense' => 100,
                 'is_legendary' => 1,
-                'photo' => 'public/victini.png',
+                'photo' => 'victini.png',
             ),
             478 =>
             array (
@@ -6243,7 +6243,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 45,
                 'defense' => 55,
                 'is_legendary' => 0,
-                'photo' => 'public/snivy.png',
+                'photo' => 'snivy.png',
             ),
             479 =>
             array (
@@ -6256,7 +6256,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 60,
                 'defense' => 75,
                 'is_legendary' => 0,
-                'photo' => 'public/servine.png',
+                'photo' => 'servine.png',
             ),
             480 =>
             array (
@@ -6269,7 +6269,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 75,
                 'defense' => 95,
                 'is_legendary' => 0,
-                'photo' => 'public/serperior.png',
+                'photo' => 'serperior.png',
             ),
             481 =>
             array (
@@ -6282,7 +6282,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 63,
                 'defense' => 45,
                 'is_legendary' => 0,
-                'photo' => 'public/tepig.png',
+                'photo' => 'tepig.png',
             ),
             482 =>
             array (
@@ -6295,7 +6295,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 93,
                 'defense' => 55,
                 'is_legendary' => 0,
-                'photo' => 'public/pignite.png',
+                'photo' => 'pignite.png',
             ),
             483 =>
             array (
@@ -6308,7 +6308,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 123,
                 'defense' => 65,
                 'is_legendary' => 0,
-                'photo' => 'public/emboar.png',
+                'photo' => 'emboar.png',
             ),
             484 =>
             array (
@@ -6321,7 +6321,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 55,
                 'defense' => 45,
                 'is_legendary' => 0,
-                'photo' => 'public/oshawott.png',
+                'photo' => 'oshawott.png',
             ),
             485 =>
             array (
@@ -6334,7 +6334,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 75,
                 'defense' => 60,
                 'is_legendary' => 0,
-                'photo' => 'public/dewott.png',
+                'photo' => 'dewott.png',
             ),
             486 =>
             array (
@@ -6347,7 +6347,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 100,
                 'defense' => 85,
                 'is_legendary' => 0,
-                'photo' => 'public/samurott.png',
+                'photo' => 'samurott.png',
             ),
             487 =>
             array (
@@ -6360,7 +6360,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 55,
                 'defense' => 39,
                 'is_legendary' => 0,
-                'photo' => 'public/patrat.png',
+                'photo' => 'patrat.png',
             ),
             488 =>
             array (
@@ -6373,7 +6373,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 85,
                 'defense' => 69,
                 'is_legendary' => 0,
-                'photo' => 'public/watchog.png',
+                'photo' => 'watchog.png',
             ),
             489 =>
             array (
@@ -6386,7 +6386,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 60,
                 'defense' => 45,
                 'is_legendary' => 0,
-                'photo' => 'public/lillipup.png',
+                'photo' => 'lillipup.png',
             ),
             490 =>
             array (
@@ -6399,7 +6399,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 80,
                 'defense' => 65,
                 'is_legendary' => 0,
-                'photo' => 'public/herdier.png',
+                'photo' => 'herdier.png',
             ),
             491 =>
             array (
@@ -6412,7 +6412,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 110,
                 'defense' => 90,
                 'is_legendary' => 0,
-                'photo' => 'public/stoutland.png',
+                'photo' => 'stoutland.png',
             ),
             492 =>
             array (
@@ -6425,7 +6425,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 50,
                 'defense' => 37,
                 'is_legendary' => 0,
-                'photo' => 'public/purrloin.png',
+                'photo' => 'purrloin.png',
             ),
             493 =>
             array (
@@ -6438,7 +6438,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 88,
                 'defense' => 50,
                 'is_legendary' => 0,
-                'photo' => 'public/liepard.png',
+                'photo' => 'liepard.png',
             ),
             494 =>
             array (
@@ -6451,7 +6451,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 53,
                 'defense' => 48,
                 'is_legendary' => 0,
-                'photo' => 'public/pansage.png',
+                'photo' => 'pansage.png',
             ),
             495 =>
             array (
@@ -6464,7 +6464,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 98,
                 'defense' => 63,
                 'is_legendary' => 0,
-                'photo' => 'public/simisage.png',
+                'photo' => 'simisage.png',
             ),
             496 =>
             array (
@@ -6477,7 +6477,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 53,
                 'defense' => 48,
                 'is_legendary' => 0,
-                'photo' => 'public/pansear.png',
+                'photo' => 'pansear.png',
             ),
             497 =>
             array (
@@ -6490,7 +6490,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 98,
                 'defense' => 63,
                 'is_legendary' => 0,
-                'photo' => 'public/simisear.png',
+                'photo' => 'simisear.png',
             ),
             498 =>
             array (
@@ -6503,7 +6503,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 53,
                 'defense' => 48,
                 'is_legendary' => 0,
-                'photo' => 'public/panpour.png',
+                'photo' => 'panpour.png',
             ),
             499 =>
             array (
@@ -6516,7 +6516,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 98,
                 'defense' => 63,
                 'is_legendary' => 0,
-                'photo' => 'public/simipour.png',
+                'photo' => 'simipour.png',
             ),
         ));
         DB::table('pokemon')->insert(array (
@@ -6531,7 +6531,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 25,
                 'defense' => 45,
                 'is_legendary' => 0,
-                'photo' => 'public/munna.png',
+                'photo' => 'munna.png',
             ),
             1 =>
             array (
@@ -6544,7 +6544,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 55,
                 'defense' => 85,
                 'is_legendary' => 0,
-                'photo' => 'public/musharna.png',
+                'photo' => 'musharna.png',
             ),
             2 =>
             array (
@@ -6557,7 +6557,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 55,
                 'defense' => 50,
                 'is_legendary' => 0,
-                'photo' => 'public/pidove.png',
+                'photo' => 'pidove.png',
             ),
             3 =>
             array (
@@ -6570,7 +6570,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 77,
                 'defense' => 62,
                 'is_legendary' => 0,
-                'photo' => 'public/tranquill.png',
+                'photo' => 'tranquill.png',
             ),
             4 =>
             array (
@@ -6583,7 +6583,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 115,
                 'defense' => 80,
                 'is_legendary' => 0,
-                'photo' => 'public/unfezant.png',
+                'photo' => 'unfezant.png',
             ),
             5 =>
             array (
@@ -6596,7 +6596,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 60,
                 'defense' => 32,
                 'is_legendary' => 0,
-                'photo' => 'public/blitzle.png',
+                'photo' => 'blitzle.png',
             ),
             6 =>
             array (
@@ -6609,7 +6609,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 100,
                 'defense' => 63,
                 'is_legendary' => 0,
-                'photo' => 'public/zebstrika.png',
+                'photo' => 'zebstrika.png',
             ),
             7 =>
             array (
@@ -6622,7 +6622,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 75,
                 'defense' => 85,
                 'is_legendary' => 0,
-                'photo' => 'public/roggenrola.png',
+                'photo' => 'roggenrola.png',
             ),
             8 =>
             array (
@@ -6635,7 +6635,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 105,
                 'defense' => 105,
                 'is_legendary' => 0,
-                'photo' => 'public/boldore.png',
+                'photo' => 'boldore.png',
             ),
             9 =>
             array (
@@ -6648,7 +6648,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 135,
                 'defense' => 130,
                 'is_legendary' => 0,
-                'photo' => 'public/gigalith.png',
+                'photo' => 'gigalith.png',
             ),
             10 =>
             array (
@@ -6661,7 +6661,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 45,
                 'defense' => 43,
                 'is_legendary' => 0,
-                'photo' => 'public/woobat.png',
+                'photo' => 'woobat.png',
             ),
             11 =>
             array (
@@ -6674,7 +6674,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 57,
                 'defense' => 55,
                 'is_legendary' => 0,
-                'photo' => 'public/swoobat.png',
+                'photo' => 'swoobat.png',
             ),
             12 =>
             array (
@@ -6687,7 +6687,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 85,
                 'defense' => 40,
                 'is_legendary' => 0,
-                'photo' => 'public/drilbur.png',
+                'photo' => 'drilbur.png',
             ),
             13 =>
             array (
@@ -6700,7 +6700,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 135,
                 'defense' => 60,
                 'is_legendary' => 0,
-                'photo' => 'public/excadrill.png',
+                'photo' => 'excadrill.png',
             ),
             14 =>
             array (
@@ -6713,7 +6713,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 60,
                 'defense' => 126,
                 'is_legendary' => 0,
-                'photo' => 'public/audino.png',
+                'photo' => 'audino.png',
             ),
             15 =>
             array (
@@ -6726,7 +6726,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 80,
                 'defense' => 55,
                 'is_legendary' => 0,
-                'photo' => 'public/timburr.png',
+                'photo' => 'timburr.png',
             ),
             16 =>
             array (
@@ -6739,7 +6739,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 105,
                 'defense' => 85,
                 'is_legendary' => 0,
-                'photo' => 'public/gurdurr.png',
+                'photo' => 'gurdurr.png',
             ),
             17 =>
             array (
@@ -6752,7 +6752,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 140,
                 'defense' => 95,
                 'is_legendary' => 0,
-                'photo' => 'public/conkeldurr.png',
+                'photo' => 'conkeldurr.png',
             ),
             18 =>
             array (
@@ -6765,7 +6765,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 50,
                 'defense' => 40,
                 'is_legendary' => 0,
-                'photo' => 'public/tympole.png',
+                'photo' => 'tympole.png',
             ),
             19 =>
             array (
@@ -6778,7 +6778,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 65,
                 'defense' => 55,
                 'is_legendary' => 0,
-                'photo' => 'public/palpitoad.png',
+                'photo' => 'palpitoad.png',
             ),
             20 =>
             array (
@@ -6791,7 +6791,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 95,
                 'defense' => 75,
                 'is_legendary' => 0,
-                'photo' => 'public/seismitoad.png',
+                'photo' => 'seismitoad.png',
             ),
             21 =>
             array (
@@ -6804,7 +6804,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 100,
                 'defense' => 85,
                 'is_legendary' => 0,
-                'photo' => 'public/throh.png',
+                'photo' => 'throh.png',
             ),
             22 =>
             array (
@@ -6817,7 +6817,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 125,
                 'defense' => 75,
                 'is_legendary' => 0,
-                'photo' => 'public/sawk.png',
+                'photo' => 'sawk.png',
             ),
             23 =>
             array (
@@ -6830,7 +6830,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 53,
                 'defense' => 70,
                 'is_legendary' => 0,
-                'photo' => 'public/sewaddle.png',
+                'photo' => 'sewaddle.png',
             ),
             24 =>
             array (
@@ -6843,7 +6843,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 63,
                 'defense' => 90,
                 'is_legendary' => 0,
-                'photo' => 'public/swadloon.png',
+                'photo' => 'swadloon.png',
             ),
             25 =>
             array (
@@ -6856,7 +6856,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 103,
                 'defense' => 80,
                 'is_legendary' => 0,
-                'photo' => 'public/leavanny.png',
+                'photo' => 'leavanny.png',
             ),
             26 =>
             array (
@@ -6869,7 +6869,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 45,
                 'defense' => 59,
                 'is_legendary' => 0,
-                'photo' => 'public/venipede.png',
+                'photo' => 'venipede.png',
             ),
             27 =>
             array (
@@ -6882,7 +6882,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 55,
                 'defense' => 99,
                 'is_legendary' => 0,
-                'photo' => 'public/whirlipede.png',
+                'photo' => 'whirlipede.png',
             ),
             28 =>
             array (
@@ -6895,7 +6895,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 100,
                 'defense' => 89,
                 'is_legendary' => 0,
-                'photo' => 'public/scolipede.png',
+                'photo' => 'scolipede.png',
             ),
             29 =>
             array (
@@ -6908,7 +6908,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 27,
                 'defense' => 60,
                 'is_legendary' => 0,
-                'photo' => 'public/cottonee.png',
+                'photo' => 'cottonee.png',
             ),
             30 =>
             array (
@@ -6921,7 +6921,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 67,
                 'defense' => 85,
                 'is_legendary' => 0,
-                'photo' => 'public/whimsicott.png',
+                'photo' => 'whimsicott.png',
             ),
             31 =>
             array (
@@ -6934,7 +6934,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 35,
                 'defense' => 50,
                 'is_legendary' => 0,
-                'photo' => 'public/petilil.png',
+                'photo' => 'petilil.png',
             ),
             32 =>
             array (
@@ -6947,7 +6947,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 60,
                 'defense' => 75,
                 'is_legendary' => 0,
-                'photo' => 'public/lilligant.png',
+                'photo' => 'lilligant.png',
             ),
             33 =>
             array (
@@ -6960,7 +6960,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 92,
                 'defense' => 65,
                 'is_legendary' => 0,
-                'photo' => 'public/basculin.png',
+                'photo' => 'basculin.png',
             ),
             34 =>
             array (
@@ -6973,7 +6973,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 72,
                 'defense' => 35,
                 'is_legendary' => 0,
-                'photo' => 'public/sandile.png',
+                'photo' => 'sandile.png',
             ),
             35 =>
             array (
@@ -6986,7 +6986,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 82,
                 'defense' => 45,
                 'is_legendary' => 0,
-                'photo' => 'public/krokorok.png',
+                'photo' => 'krokorok.png',
             ),
             36 =>
             array (
@@ -6999,7 +6999,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 117,
                 'defense' => 80,
                 'is_legendary' => 0,
-                'photo' => 'public/krookodile.png',
+                'photo' => 'krookodile.png',
             ),
             37 =>
             array (
@@ -7012,7 +7012,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 90,
                 'defense' => 45,
                 'is_legendary' => 0,
-                'photo' => 'public/darumaka.png',
+                'photo' => 'darumaka.png',
             ),
             38 =>
             array (
@@ -7025,7 +7025,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 30,
                 'defense' => 105,
                 'is_legendary' => 0,
-                'photo' => 'public/darmanitan.png',
+                'photo' => 'darmanitan.png',
             ),
             39 =>
             array (
@@ -7038,7 +7038,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 86,
                 'defense' => 67,
                 'is_legendary' => 0,
-                'photo' => 'public/maractus.png',
+                'photo' => 'maractus.png',
             ),
             40 =>
             array (
@@ -7051,7 +7051,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 65,
                 'defense' => 85,
                 'is_legendary' => 0,
-                'photo' => 'public/dwebble.png',
+                'photo' => 'dwebble.png',
             ),
             41 =>
             array (
@@ -7064,7 +7064,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 105,
                 'defense' => 125,
                 'is_legendary' => 0,
-                'photo' => 'public/crustle.png',
+                'photo' => 'crustle.png',
             ),
             42 =>
             array (
@@ -7077,7 +7077,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 75,
                 'defense' => 70,
                 'is_legendary' => 0,
-                'photo' => 'public/scraggy.png',
+                'photo' => 'scraggy.png',
             ),
             43 =>
             array (
@@ -7090,7 +7090,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 90,
                 'defense' => 115,
                 'is_legendary' => 0,
-                'photo' => 'public/scrafty.png',
+                'photo' => 'scrafty.png',
             ),
             44 =>
             array (
@@ -7103,7 +7103,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 58,
                 'defense' => 80,
                 'is_legendary' => 0,
-                'photo' => 'public/sigilyph.png',
+                'photo' => 'sigilyph.png',
             ),
             45 =>
             array (
@@ -7116,7 +7116,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 30,
                 'defense' => 85,
                 'is_legendary' => 0,
-                'photo' => 'public/yamask.png',
+                'photo' => 'yamask.png',
             ),
             46 =>
             array (
@@ -7129,7 +7129,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 50,
                 'defense' => 145,
                 'is_legendary' => 0,
-                'photo' => 'public/cofagrigus.png',
+                'photo' => 'cofagrigus.png',
             ),
             47 =>
             array (
@@ -7142,7 +7142,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 78,
                 'defense' => 103,
                 'is_legendary' => 0,
-                'photo' => 'public/tirtouga.png',
+                'photo' => 'tirtouga.png',
             ),
             48 =>
             array (
@@ -7155,7 +7155,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 108,
                 'defense' => 133,
                 'is_legendary' => 0,
-                'photo' => 'public/carracosta.png',
+                'photo' => 'carracosta.png',
             ),
             49 =>
             array (
@@ -7168,7 +7168,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 112,
                 'defense' => 45,
                 'is_legendary' => 0,
-                'photo' => 'public/archen.png',
+                'photo' => 'archen.png',
             ),
             50 =>
             array (
@@ -7181,7 +7181,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 140,
                 'defense' => 65,
                 'is_legendary' => 0,
-                'photo' => 'public/archeops.png',
+                'photo' => 'archeops.png',
             ),
             51 =>
             array (
@@ -7194,7 +7194,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 50,
                 'defense' => 62,
                 'is_legendary' => 0,
-                'photo' => 'public/trubbish.png',
+                'photo' => 'trubbish.png',
             ),
             52 =>
             array (
@@ -7207,7 +7207,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 95,
                 'defense' => 82,
                 'is_legendary' => 0,
-                'photo' => 'public/garbodor.png',
+                'photo' => 'garbodor.png',
             ),
             53 =>
             array (
@@ -7220,7 +7220,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 65,
                 'defense' => 40,
                 'is_legendary' => 0,
-                'photo' => 'public/zorua.png',
+                'photo' => 'zorua.png',
             ),
             54 =>
             array (
@@ -7233,7 +7233,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 105,
                 'defense' => 60,
                 'is_legendary' => 0,
-                'photo' => 'public/zoroark.png',
+                'photo' => 'zoroark.png',
             ),
             55 =>
             array (
@@ -7246,7 +7246,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 50,
                 'defense' => 40,
                 'is_legendary' => 0,
-                'photo' => 'public/minccino.png',
+                'photo' => 'minccino.png',
             ),
             56 =>
             array (
@@ -7259,7 +7259,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 95,
                 'defense' => 60,
                 'is_legendary' => 0,
-                'photo' => 'public/cinccino.png',
+                'photo' => 'cinccino.png',
             ),
             57 =>
             array (
@@ -7272,7 +7272,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 30,
                 'defense' => 50,
                 'is_legendary' => 0,
-                'photo' => 'public/gothita.png',
+                'photo' => 'gothita.png',
             ),
             58 =>
             array (
@@ -7285,7 +7285,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 45,
                 'defense' => 70,
                 'is_legendary' => 0,
-                'photo' => 'public/gothorita.png',
+                'photo' => 'gothorita.png',
             ),
             59 =>
             array (
@@ -7298,7 +7298,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 55,
                 'defense' => 95,
                 'is_legendary' => 0,
-                'photo' => 'public/gothitelle.png',
+                'photo' => 'gothitelle.png',
             ),
             60 =>
             array (
@@ -7311,7 +7311,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 30,
                 'defense' => 40,
                 'is_legendary' => 0,
-                'photo' => 'public/solosis.png',
+                'photo' => 'solosis.png',
             ),
             61 =>
             array (
@@ -7324,7 +7324,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 40,
                 'defense' => 50,
                 'is_legendary' => 0,
-                'photo' => 'public/duosion.png',
+                'photo' => 'duosion.png',
             ),
             62 =>
             array (
@@ -7337,7 +7337,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 65,
                 'defense' => 75,
                 'is_legendary' => 0,
-                'photo' => 'public/reuniclus.png',
+                'photo' => 'reuniclus.png',
             ),
             63 =>
             array (
@@ -7350,7 +7350,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 44,
                 'defense' => 50,
                 'is_legendary' => 0,
-                'photo' => 'public/ducklett.png',
+                'photo' => 'ducklett.png',
             ),
             64 =>
             array (
@@ -7363,7 +7363,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 87,
                 'defense' => 63,
                 'is_legendary' => 0,
-                'photo' => 'public/swanna.png',
+                'photo' => 'swanna.png',
             ),
             65 =>
             array (
@@ -7376,7 +7376,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 50,
                 'defense' => 50,
                 'is_legendary' => 0,
-                'photo' => 'public/vanillite.png',
+                'photo' => 'vanillite.png',
             ),
             66 =>
             array (
@@ -7389,7 +7389,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 65,
                 'defense' => 65,
                 'is_legendary' => 0,
-                'photo' => 'public/vanillish.png',
+                'photo' => 'vanillish.png',
             ),
             67 =>
             array (
@@ -7402,7 +7402,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 95,
                 'defense' => 85,
                 'is_legendary' => 0,
-                'photo' => 'public/vanilluxe.png',
+                'photo' => 'vanilluxe.png',
             ),
             68 =>
             array (
@@ -7415,7 +7415,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 60,
                 'defense' => 50,
                 'is_legendary' => 0,
-                'photo' => 'public/deerling.png',
+                'photo' => 'deerling.png',
             ),
             69 =>
             array (
@@ -7428,7 +7428,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 100,
                 'defense' => 70,
                 'is_legendary' => 0,
-                'photo' => 'public/sawsbuck.png',
+                'photo' => 'sawsbuck.png',
             ),
             70 =>
             array (
@@ -7441,7 +7441,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 75,
                 'defense' => 60,
                 'is_legendary' => 0,
-                'photo' => 'public/emolga.png',
+                'photo' => 'emolga.png',
             ),
             71 =>
             array (
@@ -7454,7 +7454,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 75,
                 'defense' => 45,
                 'is_legendary' => 0,
-                'photo' => 'public/karrablast.png',
+                'photo' => 'karrablast.png',
             ),
             72 =>
             array (
@@ -7467,7 +7467,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 135,
                 'defense' => 105,
                 'is_legendary' => 0,
-                'photo' => 'public/escavalier.png',
+                'photo' => 'escavalier.png',
             ),
             73 =>
             array (
@@ -7480,7 +7480,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 55,
                 'defense' => 45,
                 'is_legendary' => 0,
-                'photo' => 'public/foongus.png',
+                'photo' => 'foongus.png',
             ),
             74 =>
             array (
@@ -7493,7 +7493,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 85,
                 'defense' => 70,
                 'is_legendary' => 0,
-                'photo' => 'public/amoonguss.png',
+                'photo' => 'amoonguss.png',
             ),
             75 =>
             array (
@@ -7506,7 +7506,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 40,
                 'defense' => 50,
                 'is_legendary' => 0,
-                'photo' => 'public/frillish.png',
+                'photo' => 'frillish.png',
             ),
             76 =>
             array (
@@ -7519,7 +7519,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 60,
                 'defense' => 70,
                 'is_legendary' => 0,
-                'photo' => 'public/jellicent.png',
+                'photo' => 'jellicent.png',
             ),
             77 =>
             array (
@@ -7532,7 +7532,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 75,
                 'defense' => 80,
                 'is_legendary' => 0,
-                'photo' => 'public/alomomola.png',
+                'photo' => 'alomomola.png',
             ),
             78 =>
             array (
@@ -7545,7 +7545,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 47,
                 'defense' => 50,
                 'is_legendary' => 0,
-                'photo' => 'public/joltik.png',
+                'photo' => 'joltik.png',
             ),
             79 =>
             array (
@@ -7558,7 +7558,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 77,
                 'defense' => 60,
                 'is_legendary' => 0,
-                'photo' => 'public/galvantula.png',
+                'photo' => 'galvantula.png',
             ),
             80 =>
             array (
@@ -7571,7 +7571,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 50,
                 'defense' => 91,
                 'is_legendary' => 0,
-                'photo' => 'public/ferroseed.png',
+                'photo' => 'ferroseed.png',
             ),
             81 =>
             array (
@@ -7584,7 +7584,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 94,
                 'defense' => 131,
                 'is_legendary' => 0,
-                'photo' => 'public/ferrothorn.png',
+                'photo' => 'ferrothorn.png',
             ),
             82 =>
             array (
@@ -7597,7 +7597,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 55,
                 'defense' => 70,
                 'is_legendary' => 0,
-                'photo' => 'public/klink.png',
+                'photo' => 'klink.png',
             ),
             83 =>
             array (
@@ -7610,7 +7610,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 80,
                 'defense' => 95,
                 'is_legendary' => 0,
-                'photo' => 'public/klang.png',
+                'photo' => 'klang.png',
             ),
             84 =>
             array (
@@ -7623,7 +7623,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 100,
                 'defense' => 115,
                 'is_legendary' => 0,
-                'photo' => 'public/klinklang.png',
+                'photo' => 'klinklang.png',
             ),
             85 =>
             array (
@@ -7636,7 +7636,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 55,
                 'defense' => 40,
                 'is_legendary' => 0,
-                'photo' => 'public/tynamo.png',
+                'photo' => 'tynamo.png',
             ),
             86 =>
             array (
@@ -7649,7 +7649,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 85,
                 'defense' => 70,
                 'is_legendary' => 0,
-                'photo' => 'public/eelektrik.png',
+                'photo' => 'eelektrik.png',
             ),
             87 =>
             array (
@@ -7662,7 +7662,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 115,
                 'defense' => 80,
                 'is_legendary' => 0,
-                'photo' => 'public/eelektross.png',
+                'photo' => 'eelektross.png',
             ),
             88 =>
             array (
@@ -7675,7 +7675,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 55,
                 'defense' => 55,
                 'is_legendary' => 0,
-                'photo' => 'public/elgyem.png',
+                'photo' => 'elgyem.png',
             ),
             89 =>
             array (
@@ -7688,7 +7688,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 75,
                 'defense' => 75,
                 'is_legendary' => 0,
-                'photo' => 'public/beheeyem.png',
+                'photo' => 'beheeyem.png',
             ),
             90 =>
             array (
@@ -7701,7 +7701,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 30,
                 'defense' => 55,
                 'is_legendary' => 0,
-                'photo' => 'public/litwick.png',
+                'photo' => 'litwick.png',
             ),
             91 =>
             array (
@@ -7714,7 +7714,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 40,
                 'defense' => 60,
                 'is_legendary' => 0,
-                'photo' => 'public/lampent.png',
+                'photo' => 'lampent.png',
             ),
             92 =>
             array (
@@ -7727,7 +7727,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 55,
                 'defense' => 90,
                 'is_legendary' => 0,
-                'photo' => 'public/chandelure.png',
+                'photo' => 'chandelure.png',
             ),
             93 =>
             array (
@@ -7740,7 +7740,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 87,
                 'defense' => 60,
                 'is_legendary' => 0,
-                'photo' => 'public/axew.png',
+                'photo' => 'axew.png',
             ),
             94 =>
             array (
@@ -7753,7 +7753,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 117,
                 'defense' => 70,
                 'is_legendary' => 0,
-                'photo' => 'public/fraxure.png',
+                'photo' => 'fraxure.png',
             ),
             95 =>
             array (
@@ -7766,7 +7766,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 147,
                 'defense' => 90,
                 'is_legendary' => 0,
-                'photo' => 'public/haxorus.png',
+                'photo' => 'haxorus.png',
             ),
             96 =>
             array (
@@ -7779,7 +7779,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 70,
                 'defense' => 40,
                 'is_legendary' => 0,
-                'photo' => 'public/cubchoo.png',
+                'photo' => 'cubchoo.png',
             ),
             97 =>
             array (
@@ -7792,7 +7792,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 130,
                 'defense' => 80,
                 'is_legendary' => 0,
-                'photo' => 'public/beartic.png',
+                'photo' => 'beartic.png',
             ),
             98 =>
             array (
@@ -7805,7 +7805,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 50,
                 'defense' => 50,
                 'is_legendary' => 0,
-                'photo' => 'public/cryogonal.png',
+                'photo' => 'cryogonal.png',
             ),
             99 =>
             array (
@@ -7818,7 +7818,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 40,
                 'defense' => 85,
                 'is_legendary' => 0,
-                'photo' => 'public/shelmet.png',
+                'photo' => 'shelmet.png',
             ),
             100 =>
             array (
@@ -7831,7 +7831,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 70,
                 'defense' => 40,
                 'is_legendary' => 0,
-                'photo' => 'public/accelgor.png',
+                'photo' => 'accelgor.png',
             ),
             101 =>
             array (
@@ -7844,7 +7844,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 66,
                 'defense' => 84,
                 'is_legendary' => 0,
-                'photo' => 'public/stunfisk.png',
+                'photo' => 'stunfisk.png',
             ),
             102 =>
             array (
@@ -7857,7 +7857,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 85,
                 'defense' => 50,
                 'is_legendary' => 0,
-                'photo' => 'public/mienfoo.png',
+                'photo' => 'mienfoo.png',
             ),
             103 =>
             array (
@@ -7870,7 +7870,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 125,
                 'defense' => 60,
                 'is_legendary' => 0,
-                'photo' => 'public/mienshao.png',
+                'photo' => 'mienshao.png',
             ),
             104 =>
             array (
@@ -7883,7 +7883,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 120,
                 'defense' => 90,
                 'is_legendary' => 0,
-                'photo' => 'public/druddigon.png',
+                'photo' => 'druddigon.png',
             ),
             105 =>
             array (
@@ -7896,7 +7896,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 74,
                 'defense' => 50,
                 'is_legendary' => 0,
-                'photo' => 'public/golett.png',
+                'photo' => 'golett.png',
             ),
             106 =>
             array (
@@ -7909,7 +7909,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 124,
                 'defense' => 80,
                 'is_legendary' => 0,
-                'photo' => 'public/golurk.png',
+                'photo' => 'golurk.png',
             ),
             107 =>
             array (
@@ -7922,7 +7922,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 85,
                 'defense' => 70,
                 'is_legendary' => 0,
-                'photo' => 'public/pawniard.png',
+                'photo' => 'pawniard.png',
             ),
             108 =>
             array (
@@ -7935,7 +7935,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 125,
                 'defense' => 100,
                 'is_legendary' => 0,
-                'photo' => 'public/bisharp.png',
+                'photo' => 'bisharp.png',
             ),
             109 =>
             array (
@@ -7948,7 +7948,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 110,
                 'defense' => 95,
                 'is_legendary' => 0,
-                'photo' => 'public/bouffalant.png',
+                'photo' => 'bouffalant.png',
             ),
             110 =>
             array (
@@ -7961,7 +7961,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 83,
                 'defense' => 50,
                 'is_legendary' => 0,
-                'photo' => 'public/rufflet.png',
+                'photo' => 'rufflet.png',
             ),
             111 =>
             array (
@@ -7974,7 +7974,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 123,
                 'defense' => 75,
                 'is_legendary' => 0,
-                'photo' => 'public/braviary.png',
+                'photo' => 'braviary.png',
             ),
             112 =>
             array (
@@ -7987,7 +7987,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 55,
                 'defense' => 75,
                 'is_legendary' => 0,
-                'photo' => 'public/vullaby.png',
+                'photo' => 'vullaby.png',
             ),
             113 =>
             array (
@@ -8000,7 +8000,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 65,
                 'defense' => 105,
                 'is_legendary' => 0,
-                'photo' => 'public/mandibuzz.png',
+                'photo' => 'mandibuzz.png',
             ),
             114 =>
             array (
@@ -8013,7 +8013,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 97,
                 'defense' => 66,
                 'is_legendary' => 0,
-                'photo' => 'public/heatmor.png',
+                'photo' => 'heatmor.png',
             ),
             115 =>
             array (
@@ -8026,7 +8026,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 109,
                 'defense' => 112,
                 'is_legendary' => 0,
-                'photo' => 'public/durant.png',
+                'photo' => 'durant.png',
             ),
             116 =>
             array (
@@ -8039,7 +8039,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 65,
                 'defense' => 50,
                 'is_legendary' => 0,
-                'photo' => 'public/deino.png',
+                'photo' => 'deino.png',
             ),
             117 =>
             array (
@@ -8052,7 +8052,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 85,
                 'defense' => 70,
                 'is_legendary' => 0,
-                'photo' => 'public/zweilous.png',
+                'photo' => 'zweilous.png',
             ),
             118 =>
             array (
@@ -8065,7 +8065,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 105,
                 'defense' => 90,
                 'is_legendary' => 0,
-                'photo' => 'public/hydreigon.png',
+                'photo' => 'hydreigon.png',
             ),
             119 =>
             array (
@@ -8078,7 +8078,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 85,
                 'defense' => 55,
                 'is_legendary' => 0,
-                'photo' => 'public/larvesta.png',
+                'photo' => 'larvesta.png',
             ),
             120 =>
             array (
@@ -8091,7 +8091,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 60,
                 'defense' => 65,
                 'is_legendary' => 0,
-                'photo' => 'public/volcarona.png',
+                'photo' => 'volcarona.png',
             ),
             121 =>
             array (
@@ -8104,7 +8104,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 90,
                 'defense' => 129,
                 'is_legendary' => 1,
-                'photo' => 'public/cobalion.png',
+                'photo' => 'cobalion.png',
             ),
             122 =>
             array (
@@ -8117,7 +8117,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 129,
                 'defense' => 90,
                 'is_legendary' => 1,
-                'photo' => 'public/terrakion.png',
+                'photo' => 'terrakion.png',
             ),
             123 =>
             array (
@@ -8130,7 +8130,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 90,
                 'defense' => 72,
                 'is_legendary' => 1,
-                'photo' => 'public/virizion.png',
+                'photo' => 'virizion.png',
             ),
             124 =>
             array (
@@ -8143,7 +8143,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 100,
                 'defense' => 80,
                 'is_legendary' => 1,
-                'photo' => 'public/tornadus.png',
+                'photo' => 'tornadus.png',
             ),
             125 =>
             array (
@@ -8156,7 +8156,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 105,
                 'defense' => 70,
                 'is_legendary' => 1,
-                'photo' => 'public/thundurus.png',
+                'photo' => 'thundurus.png',
             ),
             126 =>
             array (
@@ -8169,7 +8169,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 120,
                 'defense' => 100,
                 'is_legendary' => 1,
-                'photo' => 'public/reshiram.png',
+                'photo' => 'reshiram.png',
             ),
             127 =>
             array (
@@ -8182,7 +8182,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 150,
                 'defense' => 120,
                 'is_legendary' => 1,
-                'photo' => 'public/zekrom.png',
+                'photo' => 'zekrom.png',
             ),
             128 =>
             array (
@@ -8195,7 +8195,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 145,
                 'defense' => 90,
                 'is_legendary' => 1,
-                'photo' => 'public/landorus.png',
+                'photo' => 'landorus.png',
             ),
             129 =>
             array (
@@ -8208,7 +8208,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 120,
                 'defense' => 90,
                 'is_legendary' => 1,
-                'photo' => 'public/kyurem.png',
+                'photo' => 'kyurem.png',
             ),
             130 =>
             array (
@@ -8221,7 +8221,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 72,
                 'defense' => 90,
                 'is_legendary' => 1,
-                'photo' => 'public/keldeo.png',
+                'photo' => 'keldeo.png',
             ),
             131 =>
             array (
@@ -8234,7 +8234,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 128,
                 'defense' => 90,
                 'is_legendary' => 1,
-                'photo' => 'public/meloetta.png',
+                'photo' => 'meloetta.png',
             ),
             132 =>
             array (
@@ -8247,7 +8247,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 120,
                 'defense' => 95,
                 'is_legendary' => 1,
-                'photo' => 'public/genesect.png',
+                'photo' => 'genesect.png',
             ),
             133 =>
             array (
@@ -8260,7 +8260,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 61,
                 'defense' => 65,
                 'is_legendary' => 0,
-                'photo' => 'public/chespin.png',
+                'photo' => 'chespin.png',
             ),
             134 =>
             array (
@@ -8273,7 +8273,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 78,
                 'defense' => 95,
                 'is_legendary' => 0,
-                'photo' => 'public/quilladin.png',
+                'photo' => 'quilladin.png',
             ),
             135 =>
             array (
@@ -8286,7 +8286,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 107,
                 'defense' => 122,
                 'is_legendary' => 0,
-                'photo' => 'public/chesnaught.png',
+                'photo' => 'chesnaught.png',
             ),
             136 =>
             array (
@@ -8299,7 +8299,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 45,
                 'defense' => 40,
                 'is_legendary' => 0,
-                'photo' => 'public/fennekin.png',
+                'photo' => 'fennekin.png',
             ),
             137 =>
             array (
@@ -8312,7 +8312,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 59,
                 'defense' => 58,
                 'is_legendary' => 0,
-                'photo' => 'public/braixen.png',
+                'photo' => 'braixen.png',
             ),
             138 =>
             array (
@@ -8325,7 +8325,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 69,
                 'defense' => 72,
                 'is_legendary' => 0,
-                'photo' => 'public/delphox.png',
+                'photo' => 'delphox.png',
             ),
             139 =>
             array (
@@ -8338,7 +8338,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 56,
                 'defense' => 40,
                 'is_legendary' => 0,
-                'photo' => 'public/froakie.png',
+                'photo' => 'froakie.png',
             ),
             140 =>
             array (
@@ -8351,7 +8351,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 63,
                 'defense' => 52,
                 'is_legendary' => 0,
-                'photo' => 'public/frogadier.png',
+                'photo' => 'frogadier.png',
             ),
             141 =>
             array (
@@ -8364,7 +8364,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 145,
                 'defense' => 67,
                 'is_legendary' => 0,
-                'photo' => 'public/greninja.png',
+                'photo' => 'greninja.png',
             ),
             142 =>
             array (
@@ -8377,7 +8377,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 36,
                 'defense' => 38,
                 'is_legendary' => 0,
-                'photo' => 'public/bunnelby.png',
+                'photo' => 'bunnelby.png',
             ),
             143 =>
             array (
@@ -8390,7 +8390,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 56,
                 'defense' => 77,
                 'is_legendary' => 0,
-                'photo' => 'public/diggersby.png',
+                'photo' => 'diggersby.png',
             ),
             144 =>
             array (
@@ -8403,7 +8403,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 50,
                 'defense' => 43,
                 'is_legendary' => 0,
-                'photo' => 'public/fletchling.png',
+                'photo' => 'fletchling.png',
             ),
             145 =>
             array (
@@ -8416,7 +8416,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 73,
                 'defense' => 55,
                 'is_legendary' => 0,
-                'photo' => 'public/fletchinder.png',
+                'photo' => 'fletchinder.png',
             ),
             146 =>
             array (
@@ -8429,7 +8429,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 81,
                 'defense' => 71,
                 'is_legendary' => 0,
-                'photo' => 'public/talonflame.png',
+                'photo' => 'talonflame.png',
             ),
             147 =>
             array (
@@ -8442,7 +8442,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 35,
                 'defense' => 40,
                 'is_legendary' => 0,
-                'photo' => 'public/scatterbug.png',
+                'photo' => 'scatterbug.png',
             ),
             148 =>
             array (
@@ -8455,7 +8455,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 22,
                 'defense' => 60,
                 'is_legendary' => 0,
-                'photo' => 'public/spewpa.png',
+                'photo' => 'spewpa.png',
             ),
             149 =>
             array (
@@ -8468,7 +8468,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 52,
                 'defense' => 50,
                 'is_legendary' => 0,
-                'photo' => 'public/vivillon.png',
+                'photo' => 'vivillon.png',
             ),
             150 =>
             array (
@@ -8481,7 +8481,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 50,
                 'defense' => 58,
                 'is_legendary' => 0,
-                'photo' => 'public/litleo.png',
+                'photo' => 'litleo.png',
             ),
             151 =>
             array (
@@ -8494,7 +8494,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 68,
                 'defense' => 72,
                 'is_legendary' => 0,
-                'photo' => 'public/pyroar.png',
+                'photo' => 'pyroar.png',
             ),
             152 =>
             array (
@@ -8507,7 +8507,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 38,
                 'defense' => 39,
                 'is_legendary' => 0,
-                'photo' => 'public/flabebe.png',
+                'photo' => 'flabebe.png',
             ),
             153 =>
             array (
@@ -8520,7 +8520,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 65,
                 'defense' => 67,
                 'is_legendary' => 0,
-                'photo' => 'public/floette.png',
+                'photo' => 'floette.png',
             ),
             154 =>
             array (
@@ -8533,7 +8533,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 65,
                 'defense' => 68,
                 'is_legendary' => 0,
-                'photo' => 'public/florges.png',
+                'photo' => 'florges.png',
             ),
             155 =>
             array (
@@ -8546,7 +8546,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 65,
                 'defense' => 48,
                 'is_legendary' => 0,
-                'photo' => 'public/skiddo.png',
+                'photo' => 'skiddo.png',
             ),
             156 =>
             array (
@@ -8559,7 +8559,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 100,
                 'defense' => 62,
                 'is_legendary' => 0,
-                'photo' => 'public/gogoat.png',
+                'photo' => 'gogoat.png',
             ),
             157 =>
             array (
@@ -8572,7 +8572,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 82,
                 'defense' => 62,
                 'is_legendary' => 0,
-                'photo' => 'public/pancham.png',
+                'photo' => 'pancham.png',
             ),
             158 =>
             array (
@@ -8585,7 +8585,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 124,
                 'defense' => 78,
                 'is_legendary' => 0,
-                'photo' => 'public/pangoro.png',
+                'photo' => 'pangoro.png',
             ),
             159 =>
             array (
@@ -8598,7 +8598,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 80,
                 'defense' => 60,
                 'is_legendary' => 0,
-                'photo' => 'public/furfrou.png',
+                'photo' => 'furfrou.png',
             ),
             160 =>
             array (
@@ -8611,7 +8611,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 48,
                 'defense' => 54,
                 'is_legendary' => 0,
-                'photo' => 'public/espurr.png',
+                'photo' => 'espurr.png',
             ),
             161 =>
             array (
@@ -8624,7 +8624,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 48,
                 'defense' => 76,
                 'is_legendary' => 0,
-                'photo' => 'public/meowstic.png',
+                'photo' => 'meowstic.png',
             ),
             162 =>
             array (
@@ -8637,7 +8637,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 80,
                 'defense' => 100,
                 'is_legendary' => 0,
-                'photo' => 'public/honedge.png',
+                'photo' => 'honedge.png',
             ),
             163 =>
             array (
@@ -8650,7 +8650,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 110,
                 'defense' => 150,
                 'is_legendary' => 0,
-                'photo' => 'public/doublade.png',
+                'photo' => 'doublade.png',
             ),
             164 =>
             array (
@@ -8663,7 +8663,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 150,
                 'defense' => 50,
                 'is_legendary' => 0,
-                'photo' => 'public/aegislash.png',
+                'photo' => 'aegislash.png',
             ),
             165 =>
             array (
@@ -8676,7 +8676,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 52,
                 'defense' => 60,
                 'is_legendary' => 0,
-                'photo' => 'public/spritzee.png',
+                'photo' => 'spritzee.png',
             ),
             166 =>
             array (
@@ -8689,7 +8689,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 72,
                 'defense' => 72,
                 'is_legendary' => 0,
-                'photo' => 'public/aromatisse.png',
+                'photo' => 'aromatisse.png',
             ),
             167 =>
             array (
@@ -8702,7 +8702,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 48,
                 'defense' => 66,
                 'is_legendary' => 0,
-                'photo' => 'public/swirlix.png',
+                'photo' => 'swirlix.png',
             ),
             168 =>
             array (
@@ -8715,7 +8715,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 80,
                 'defense' => 86,
                 'is_legendary' => 0,
-                'photo' => 'public/slurpuff.png',
+                'photo' => 'slurpuff.png',
             ),
             169 =>
             array (
@@ -8728,7 +8728,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 54,
                 'defense' => 53,
                 'is_legendary' => 0,
-                'photo' => 'public/inkay.png',
+                'photo' => 'inkay.png',
             ),
             170 =>
             array (
@@ -8741,7 +8741,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 92,
                 'defense' => 88,
                 'is_legendary' => 0,
-                'photo' => 'public/malamar.png',
+                'photo' => 'malamar.png',
             ),
             171 =>
             array (
@@ -8754,7 +8754,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 52,
                 'defense' => 67,
                 'is_legendary' => 0,
-                'photo' => 'public/binacle.png',
+                'photo' => 'binacle.png',
             ),
             172 =>
             array (
@@ -8767,7 +8767,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 105,
                 'defense' => 115,
                 'is_legendary' => 0,
-                'photo' => 'public/barbaracle.png',
+                'photo' => 'barbaracle.png',
             ),
             173 =>
             array (
@@ -8780,7 +8780,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 60,
                 'defense' => 60,
                 'is_legendary' => 0,
-                'photo' => 'public/skrelp.png',
+                'photo' => 'skrelp.png',
             ),
             174 =>
             array (
@@ -8793,7 +8793,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 75,
                 'defense' => 90,
                 'is_legendary' => 0,
-                'photo' => 'public/dragalge.png',
+                'photo' => 'dragalge.png',
             ),
             175 =>
             array (
@@ -8806,7 +8806,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 53,
                 'defense' => 62,
                 'is_legendary' => 0,
-                'photo' => 'public/clauncher.png',
+                'photo' => 'clauncher.png',
             ),
             176 =>
             array (
@@ -8819,7 +8819,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 73,
                 'defense' => 88,
                 'is_legendary' => 0,
-                'photo' => 'public/clawitzer.png',
+                'photo' => 'clawitzer.png',
             ),
             177 =>
             array (
@@ -8832,7 +8832,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 38,
                 'defense' => 33,
                 'is_legendary' => 0,
-                'photo' => 'public/helioptile.png',
+                'photo' => 'helioptile.png',
             ),
             178 =>
             array (
@@ -8845,7 +8845,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 55,
                 'defense' => 52,
                 'is_legendary' => 0,
-                'photo' => 'public/heliolisk.png',
+                'photo' => 'heliolisk.png',
             ),
             179 =>
             array (
@@ -8858,7 +8858,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 89,
                 'defense' => 77,
                 'is_legendary' => 0,
-                'photo' => 'public/tyrunt.png',
+                'photo' => 'tyrunt.png',
             ),
             180 =>
             array (
@@ -8871,7 +8871,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 121,
                 'defense' => 119,
                 'is_legendary' => 0,
-                'photo' => 'public/tyrantrum.png',
+                'photo' => 'tyrantrum.png',
             ),
             181 =>
             array (
@@ -8884,7 +8884,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 59,
                 'defense' => 50,
                 'is_legendary' => 0,
-                'photo' => 'public/amaura.png',
+                'photo' => 'amaura.png',
             ),
             182 =>
             array (
@@ -8897,7 +8897,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 77,
                 'defense' => 72,
                 'is_legendary' => 0,
-                'photo' => 'public/aurorus.png',
+                'photo' => 'aurorus.png',
             ),
             183 =>
             array (
@@ -8910,7 +8910,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 65,
                 'defense' => 65,
                 'is_legendary' => 0,
-                'photo' => 'public/sylveon.png',
+                'photo' => 'sylveon.png',
             ),
             184 =>
             array (
@@ -8923,7 +8923,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 92,
                 'defense' => 75,
                 'is_legendary' => 0,
-                'photo' => 'public/hawlucha.png',
+                'photo' => 'hawlucha.png',
             ),
             185 =>
             array (
@@ -8936,7 +8936,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 58,
                 'defense' => 57,
                 'is_legendary' => 0,
-                'photo' => 'public/dedenne.png',
+                'photo' => 'dedenne.png',
             ),
             186 =>
             array (
@@ -8949,7 +8949,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 50,
                 'defense' => 150,
                 'is_legendary' => 0,
-                'photo' => 'public/carbink.png',
+                'photo' => 'carbink.png',
             ),
             187 =>
             array (
@@ -8962,7 +8962,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 50,
                 'defense' => 35,
                 'is_legendary' => 0,
-                'photo' => 'public/goomy.png',
+                'photo' => 'goomy.png',
             ),
             188 =>
             array (
@@ -8975,7 +8975,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 75,
                 'defense' => 53,
                 'is_legendary' => 0,
-                'photo' => 'public/sliggoo.png',
+                'photo' => 'sliggoo.png',
             ),
             189 =>
             array (
@@ -8988,7 +8988,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 100,
                 'defense' => 70,
                 'is_legendary' => 0,
-                'photo' => 'public/goodra.png',
+                'photo' => 'goodra.png',
             ),
             190 =>
             array (
@@ -9001,7 +9001,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 80,
                 'defense' => 91,
                 'is_legendary' => 0,
-                'photo' => 'public/klefki.png',
+                'photo' => 'klefki.png',
             ),
             191 =>
             array (
@@ -9014,7 +9014,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 70,
                 'defense' => 48,
                 'is_legendary' => 0,
-                'photo' => 'public/phantump.png',
+                'photo' => 'phantump.png',
             ),
             192 =>
             array (
@@ -9027,7 +9027,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 110,
                 'defense' => 76,
                 'is_legendary' => 0,
-                'photo' => 'public/trevenant.png',
+                'photo' => 'trevenant.png',
             ),
             193 =>
             array (
@@ -9040,7 +9040,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 66,
                 'defense' => 70,
                 'is_legendary' => 0,
-                'photo' => 'public/pumpkaboo.png',
+                'photo' => 'pumpkaboo.png',
             ),
             194 =>
             array (
@@ -9053,7 +9053,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 100,
                 'defense' => 122,
                 'is_legendary' => 0,
-                'photo' => 'public/gourgeist.png',
+                'photo' => 'gourgeist.png',
             ),
             195 =>
             array (
@@ -9066,7 +9066,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 69,
                 'defense' => 85,
                 'is_legendary' => 0,
-                'photo' => 'public/bergmite.png',
+                'photo' => 'bergmite.png',
             ),
             196 =>
             array (
@@ -9079,7 +9079,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 117,
                 'defense' => 184,
                 'is_legendary' => 0,
-                'photo' => 'public/avalugg.png',
+                'photo' => 'avalugg.png',
             ),
             197 =>
             array (
@@ -9092,7 +9092,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 30,
                 'defense' => 35,
                 'is_legendary' => 0,
-                'photo' => 'public/noibat.png',
+                'photo' => 'noibat.png',
             ),
             198 =>
             array (
@@ -9105,7 +9105,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 70,
                 'defense' => 80,
                 'is_legendary' => 0,
-                'photo' => 'public/noivern.png',
+                'photo' => 'noivern.png',
             ),
             199 =>
             array (
@@ -9118,7 +9118,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 131,
                 'defense' => 95,
                 'is_legendary' => 1,
-                'photo' => 'public/xerneas.png',
+                'photo' => 'xerneas.png',
             ),
             200 =>
             array (
@@ -9131,7 +9131,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 131,
                 'defense' => 95,
                 'is_legendary' => 1,
-                'photo' => 'public/yveltal.png',
+                'photo' => 'yveltal.png',
             ),
             201 =>
             array (
@@ -9144,7 +9144,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 100,
                 'defense' => 121,
                 'is_legendary' => 1,
-                'photo' => 'public/zygarde.png',
+                'photo' => 'zygarde.png',
             ),
             202 =>
             array (
@@ -9157,7 +9157,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 160,
                 'defense' => 110,
                 'is_legendary' => 1,
-                'photo' => 'public/diancie.png',
+                'photo' => 'diancie.png',
             ),
             203 =>
             array (
@@ -9170,7 +9170,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 110,
                 'defense' => 120,
                 'is_legendary' => 1,
-                'photo' => 'public/volcanion.png',
+                'photo' => 'volcanion.png',
             ),
             204 =>
             array (
@@ -9183,7 +9183,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 55,
                 'defense' => 55,
                 'is_legendary' => 0,
-                'photo' => 'public/rowlet.png',
+                'photo' => 'rowlet.png',
             ),
             205 =>
             array (
@@ -9196,7 +9196,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 75,
                 'defense' => 75,
                 'is_legendary' => 0,
-                'photo' => 'public/dartrix.png',
+                'photo' => 'dartrix.png',
             ),
             206 =>
             array (
@@ -9209,7 +9209,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 107,
                 'defense' => 75,
                 'is_legendary' => 0,
-                'photo' => 'public/decidueye.png',
+                'photo' => 'decidueye.png',
             ),
             207 =>
             array (
@@ -9222,7 +9222,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 65,
                 'defense' => 40,
                 'is_legendary' => 0,
-                'photo' => 'public/litten.png',
+                'photo' => 'litten.png',
             ),
             208 =>
             array (
@@ -9235,7 +9235,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 85,
                 'defense' => 50,
                 'is_legendary' => 0,
-                'photo' => 'public/torracat.png',
+                'photo' => 'torracat.png',
             ),
             209 =>
             array (
@@ -9248,7 +9248,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 115,
                 'defense' => 90,
                 'is_legendary' => 0,
-                'photo' => 'public/incineroar.png',
+                'photo' => 'incineroar.png',
             ),
             210 =>
             array (
@@ -9261,7 +9261,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 54,
                 'defense' => 54,
                 'is_legendary' => 0,
-                'photo' => 'public/popplio.png',
+                'photo' => 'popplio.png',
             ),
             211 =>
             array (
@@ -9274,7 +9274,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 69,
                 'defense' => 69,
                 'is_legendary' => 0,
-                'photo' => 'public/brionne.png',
+                'photo' => 'brionne.png',
             ),
             212 =>
             array (
@@ -9287,7 +9287,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 74,
                 'defense' => 74,
                 'is_legendary' => 0,
-                'photo' => 'public/primarina.png',
+                'photo' => 'primarina.png',
             ),
             213 =>
             array (
@@ -9300,7 +9300,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 75,
                 'defense' => 30,
                 'is_legendary' => 0,
-                'photo' => 'public/pikipek.png',
+                'photo' => 'pikipek.png',
             ),
             214 =>
             array (
@@ -9313,7 +9313,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 85,
                 'defense' => 50,
                 'is_legendary' => 0,
-                'photo' => 'public/trumbeak.png',
+                'photo' => 'trumbeak.png',
             ),
             215 =>
             array (
@@ -9326,7 +9326,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 120,
                 'defense' => 75,
                 'is_legendary' => 0,
-                'photo' => 'public/toucannon.png',
+                'photo' => 'toucannon.png',
             ),
             216 =>
             array (
@@ -9339,7 +9339,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 70,
                 'defense' => 30,
                 'is_legendary' => 0,
-                'photo' => 'public/yungoos.png',
+                'photo' => 'yungoos.png',
             ),
             217 =>
             array (
@@ -9352,7 +9352,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 110,
                 'defense' => 60,
                 'is_legendary' => 0,
-                'photo' => 'public/gumshoos.png',
+                'photo' => 'gumshoos.png',
             ),
             218 =>
             array (
@@ -9365,7 +9365,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 62,
                 'defense' => 45,
                 'is_legendary' => 0,
-                'photo' => 'public/grubbin.png',
+                'photo' => 'grubbin.png',
             ),
             219 =>
             array (
@@ -9378,7 +9378,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 82,
                 'defense' => 95,
                 'is_legendary' => 0,
-                'photo' => 'public/charjabug.png',
+                'photo' => 'charjabug.png',
             ),
             220 =>
             array (
@@ -9391,7 +9391,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 70,
                 'defense' => 90,
                 'is_legendary' => 0,
-                'photo' => 'public/vikavolt.png',
+                'photo' => 'vikavolt.png',
             ),
             221 =>
             array (
@@ -9404,7 +9404,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 82,
                 'defense' => 57,
                 'is_legendary' => 0,
-                'photo' => 'public/crabrawler.png',
+                'photo' => 'crabrawler.png',
             ),
             222 =>
             array (
@@ -9417,7 +9417,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 132,
                 'defense' => 77,
                 'is_legendary' => 0,
-                'photo' => 'public/crabominable.png',
+                'photo' => 'crabominable.png',
             ),
             223 =>
             array (
@@ -9430,7 +9430,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 70,
                 'defense' => 70,
                 'is_legendary' => 0,
-                'photo' => 'public/oricorio.png',
+                'photo' => 'oricorio.png',
             ),
             224 =>
             array (
@@ -9443,7 +9443,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 45,
                 'defense' => 40,
                 'is_legendary' => 0,
-                'photo' => 'public/cutiefly.png',
+                'photo' => 'cutiefly.png',
             ),
             225 =>
             array (
@@ -9456,7 +9456,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 55,
                 'defense' => 60,
                 'is_legendary' => 0,
-                'photo' => 'public/ribombee.png',
+                'photo' => 'ribombee.png',
             ),
             226 =>
             array (
@@ -9469,7 +9469,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 65,
                 'defense' => 40,
                 'is_legendary' => 0,
-                'photo' => 'public/rockruff.png',
+                'photo' => 'rockruff.png',
             ),
             227 =>
             array (
@@ -9482,7 +9482,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 115,
                 'defense' => 75,
                 'is_legendary' => 0,
-                'photo' => 'public/lycanroc.png',
+                'photo' => 'lycanroc.png',
             ),
             228 =>
             array (
@@ -9495,7 +9495,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 140,
                 'defense' => 130,
                 'is_legendary' => 0,
-                'photo' => 'public/wishiwashi.png',
+                'photo' => 'wishiwashi.png',
             ),
             229 =>
             array (
@@ -9508,7 +9508,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 53,
                 'defense' => 62,
                 'is_legendary' => 0,
-                'photo' => 'public/mareanie.png',
+                'photo' => 'mareanie.png',
             ),
             230 =>
             array (
@@ -9521,7 +9521,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 63,
                 'defense' => 152,
                 'is_legendary' => 0,
-                'photo' => 'public/toxapex.png',
+                'photo' => 'toxapex.png',
             ),
             231 =>
             array (
@@ -9534,7 +9534,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 100,
                 'defense' => 70,
                 'is_legendary' => 0,
-                'photo' => 'public/mudbray.png',
+                'photo' => 'mudbray.png',
             ),
             232 =>
             array (
@@ -9547,7 +9547,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 125,
                 'defense' => 100,
                 'is_legendary' => 0,
-                'photo' => 'public/mudsdale.png',
+                'photo' => 'mudsdale.png',
             ),
             233 =>
             array (
@@ -9560,7 +9560,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 40,
                 'defense' => 52,
                 'is_legendary' => 0,
-                'photo' => 'public/dewpider.png',
+                'photo' => 'dewpider.png',
             ),
             234 =>
             array (
@@ -9573,7 +9573,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 70,
                 'defense' => 92,
                 'is_legendary' => 0,
-                'photo' => 'public/araquanid.png',
+                'photo' => 'araquanid.png',
             ),
             235 =>
             array (
@@ -9586,7 +9586,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 55,
                 'defense' => 35,
                 'is_legendary' => 0,
-                'photo' => 'public/fomantis.png',
+                'photo' => 'fomantis.png',
             ),
             236 =>
             array (
@@ -9599,7 +9599,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 105,
                 'defense' => 90,
                 'is_legendary' => 0,
-                'photo' => 'public/lurantis.png',
+                'photo' => 'lurantis.png',
             ),
             237 =>
             array (
@@ -9612,7 +9612,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 35,
                 'defense' => 55,
                 'is_legendary' => 0,
-                'photo' => 'public/morelull.png',
+                'photo' => 'morelull.png',
             ),
             238 =>
             array (
@@ -9625,7 +9625,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 45,
                 'defense' => 80,
                 'is_legendary' => 0,
-                'photo' => 'public/shiinotic.png',
+                'photo' => 'shiinotic.png',
             ),
             239 =>
             array (
@@ -9638,7 +9638,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 44,
                 'defense' => 40,
                 'is_legendary' => 0,
-                'photo' => 'public/salandit.png',
+                'photo' => 'salandit.png',
             ),
             240 =>
             array (
@@ -9651,7 +9651,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 64,
                 'defense' => 60,
                 'is_legendary' => 0,
-                'photo' => 'public/salazzle.png',
+                'photo' => 'salazzle.png',
             ),
             241 =>
             array (
@@ -9664,7 +9664,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 75,
                 'defense' => 50,
                 'is_legendary' => 0,
-                'photo' => 'public/stufful.png',
+                'photo' => 'stufful.png',
             ),
             242 =>
             array (
@@ -9677,7 +9677,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 125,
                 'defense' => 80,
                 'is_legendary' => 0,
-                'photo' => 'public/bewear.png',
+                'photo' => 'bewear.png',
             ),
             243 =>
             array (
@@ -9690,7 +9690,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 30,
                 'defense' => 38,
                 'is_legendary' => 0,
-                'photo' => 'public/bounsweet.png',
+                'photo' => 'bounsweet.png',
             ),
             244 =>
             array (
@@ -9703,7 +9703,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 40,
                 'defense' => 48,
                 'is_legendary' => 0,
-                'photo' => 'public/steenee.png',
+                'photo' => 'steenee.png',
             ),
             245 =>
             array (
@@ -9716,7 +9716,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 120,
                 'defense' => 98,
                 'is_legendary' => 0,
-                'photo' => 'public/tsareena.png',
+                'photo' => 'tsareena.png',
             ),
             246 =>
             array (
@@ -9729,7 +9729,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 52,
                 'defense' => 90,
                 'is_legendary' => 0,
-                'photo' => 'public/comfey.png',
+                'photo' => 'comfey.png',
             ),
             247 =>
             array (
@@ -9742,7 +9742,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 60,
                 'defense' => 80,
                 'is_legendary' => 0,
-                'photo' => 'public/oranguru.png',
+                'photo' => 'oranguru.png',
             ),
             248 =>
             array (
@@ -9755,7 +9755,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 120,
                 'defense' => 90,
                 'is_legendary' => 0,
-                'photo' => 'public/passimian.png',
+                'photo' => 'passimian.png',
             ),
             249 =>
             array (
@@ -9768,7 +9768,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 35,
                 'defense' => 40,
                 'is_legendary' => 0,
-                'photo' => 'public/wimpod.png',
+                'photo' => 'wimpod.png',
             ),
             250 =>
             array (
@@ -9781,7 +9781,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 125,
                 'defense' => 140,
                 'is_legendary' => 0,
-                'photo' => 'public/golisopod.png',
+                'photo' => 'golisopod.png',
             ),
             251 =>
             array (
@@ -9794,7 +9794,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 55,
                 'defense' => 80,
                 'is_legendary' => 0,
-                'photo' => 'public/sandygast.png',
+                'photo' => 'sandygast.png',
             ),
             252 =>
             array (
@@ -9807,7 +9807,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 75,
                 'defense' => 110,
                 'is_legendary' => 0,
-                'photo' => 'public/palossand.png',
+                'photo' => 'palossand.png',
             ),
             253 =>
             array (
@@ -9820,7 +9820,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 60,
                 'defense' => 130,
                 'is_legendary' => 0,
-                'photo' => 'public/pyukumuku.png',
+                'photo' => 'pyukumuku.png',
             ),
             254 =>
             array (
@@ -9833,7 +9833,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 95,
                 'defense' => 95,
                 'is_legendary' => 0,
-                'photo' => 'public/silvally.png',
+                'photo' => 'silvally.png',
             ),
             255 =>
             array (
@@ -9846,7 +9846,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 100,
                 'defense' => 60,
                 'is_legendary' => 0,
-                'photo' => 'public/minior.png',
+                'photo' => 'minior.png',
             ),
             256 =>
             array (
@@ -9859,7 +9859,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 115,
                 'defense' => 65,
                 'is_legendary' => 0,
-                'photo' => 'public/komala.png',
+                'photo' => 'komala.png',
             ),
             257 =>
             array (
@@ -9872,7 +9872,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 78,
                 'defense' => 135,
                 'is_legendary' => 0,
-                'photo' => 'public/turtonator.png',
+                'photo' => 'turtonator.png',
             ),
             258 =>
             array (
@@ -9885,7 +9885,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 98,
                 'defense' => 63,
                 'is_legendary' => 0,
-                'photo' => 'public/togedemaru.png',
+                'photo' => 'togedemaru.png',
             ),
             259 =>
             array (
@@ -9898,7 +9898,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 90,
                 'defense' => 80,
                 'is_legendary' => 0,
-                'photo' => 'public/mimikyu.png',
+                'photo' => 'mimikyu.png',
             ),
             260 =>
             array (
@@ -9911,7 +9911,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 105,
                 'defense' => 70,
                 'is_legendary' => 0,
-                'photo' => 'public/bruxish.png',
+                'photo' => 'bruxish.png',
             ),
             261 =>
             array (
@@ -9924,7 +9924,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 60,
                 'defense' => 85,
                 'is_legendary' => 0,
-                'photo' => 'public/drampa.png',
+                'photo' => 'drampa.png',
             ),
             262 =>
             array (
@@ -9937,7 +9937,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 131,
                 'defense' => 100,
                 'is_legendary' => 0,
-                'photo' => 'public/dhelmise.png',
+                'photo' => 'dhelmise.png',
             ),
             263 =>
             array (
@@ -9950,7 +9950,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 55,
                 'defense' => 65,
                 'is_legendary' => 0,
-                'photo' => 'public/jangmo-o.png',
+                'photo' => 'jangmo-o.png',
             ),
             264 =>
             array (
@@ -9963,7 +9963,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 75,
                 'defense' => 90,
                 'is_legendary' => 0,
-                'photo' => 'public/hakamo-o.png',
+                'photo' => 'hakamo-o.png',
             ),
             265 =>
             array (
@@ -9976,7 +9976,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 110,
                 'defense' => 125,
                 'is_legendary' => 0,
-                'photo' => 'public/kommo-o.png',
+                'photo' => 'kommo-o.png',
             ),
             266 =>
             array (
@@ -9989,7 +9989,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 115,
                 'defense' => 85,
                 'is_legendary' => 1,
-                'photo' => 'public/tapu-koko.png',
+                'photo' => 'tapu-koko.png',
             ),
             267 =>
             array (
@@ -10002,7 +10002,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 85,
                 'defense' => 75,
                 'is_legendary' => 1,
-                'photo' => 'public/tapu-lele.png',
+                'photo' => 'tapu-lele.png',
             ),
             268 =>
             array (
@@ -10015,7 +10015,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 130,
                 'defense' => 115,
                 'is_legendary' => 1,
-                'photo' => 'public/tapu-bulu.png',
+                'photo' => 'tapu-bulu.png',
             ),
             269 =>
             array (
@@ -10028,7 +10028,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 75,
                 'defense' => 115,
                 'is_legendary' => 1,
-                'photo' => 'public/tapu-fini.png',
+                'photo' => 'tapu-fini.png',
             ),
             270 =>
             array (
@@ -10041,7 +10041,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 29,
                 'defense' => 31,
                 'is_legendary' => 1,
-                'photo' => 'public/cosmog.png',
+                'photo' => 'cosmog.png',
             ),
             271 =>
             array (
@@ -10054,7 +10054,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 29,
                 'defense' => 131,
                 'is_legendary' => 1,
-                'photo' => 'public/cosmoem.png',
+                'photo' => 'cosmoem.png',
             ),
             272 =>
             array (
@@ -10067,7 +10067,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 137,
                 'defense' => 107,
                 'is_legendary' => 1,
-                'photo' => 'public/solgaleo.png',
+                'photo' => 'solgaleo.png',
             ),
             273 =>
             array (
@@ -10080,7 +10080,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 113,
                 'defense' => 89,
                 'is_legendary' => 1,
-                'photo' => 'public/lunala.png',
+                'photo' => 'lunala.png',
             ),
             274 =>
             array (
@@ -10093,7 +10093,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 53,
                 'defense' => 47,
                 'is_legendary' => 1,
-                'photo' => 'public/nihilego.png',
+                'photo' => 'nihilego.png',
             ),
             275 =>
             array (
@@ -10106,7 +10106,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 139,
                 'defense' => 139,
                 'is_legendary' => 1,
-                'photo' => 'public/buzzwole.png',
+                'photo' => 'buzzwole.png',
             ),
             276 =>
             array (
@@ -10119,7 +10119,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 137,
                 'defense' => 37,
                 'is_legendary' => 1,
-                'photo' => 'public/pheromosa.png',
+                'photo' => 'pheromosa.png',
             ),
             277 =>
             array (
@@ -10132,7 +10132,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 89,
                 'defense' => 71,
                 'is_legendary' => 1,
-                'photo' => 'public/xurkitree.png',
+                'photo' => 'xurkitree.png',
             ),
             278 =>
             array (
@@ -10145,7 +10145,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 101,
                 'defense' => 103,
                 'is_legendary' => 1,
-                'photo' => 'public/celesteela.png',
+                'photo' => 'celesteela.png',
             ),
             279 =>
             array (
@@ -10158,7 +10158,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 181,
                 'defense' => 131,
                 'is_legendary' => 1,
-                'photo' => 'public/kartana.png',
+                'photo' => 'kartana.png',
             ),
             280 =>
             array (
@@ -10171,7 +10171,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 101,
                 'defense' => 53,
                 'is_legendary' => 1,
-                'photo' => 'public/guzzlord.png',
+                'photo' => 'guzzlord.png',
             ),
             281 =>
             array (
@@ -10184,7 +10184,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 107,
                 'defense' => 101,
                 'is_legendary' => 1,
-                'photo' => 'public/necrozma.png',
+                'photo' => 'necrozma.png',
             ),
             282 =>
             array (
@@ -10197,7 +10197,7 @@ class PokemonTableSeeder extends Seeder
                 'attack' => 95,
                 'defense' => 115,
                 'is_legendary' => 1,
-                'photo' => 'public/magearna.png',
+                'photo' => 'magearna.png',
             ),
         ));
 
